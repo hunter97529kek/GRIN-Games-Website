@@ -1,0 +1,70 @@
+<HTML>
+<HEAD>
+ <TITLE>GRIN Inc - The Website</TITLE>
+ <LINK rel="stylesheet" type="text/css" href="css/grin_format.css">
+</HEAD>
+<BODY bgcolor="#4B5F5F" text="#F1EEE7" link="#F2EACF" vlink="#F2EACF" alink="#F2EACF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" align="center">
+<DIV align="left"><A name="sitetop"></A>
+<TABLE width="535" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" valign="top">
+ <TR>
+  <TD align="left" valign="top" width="535"><DIV align="left"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>Contacting GRIN</B><BR><BR>
+   <P align="justify">Any business- or press related questions are referred to Bo Andersson at <A href="mailto:Bo@Grin.se">Bo@Grin.se</A><BR><BR>
+   <!--Press is always welcome with inquiries at <A href="mailto:Press@Grin.se">Press@Grin.se</A><BR><BR>
+   If you are looking for a job, please take a look at the job opertunities section before you contact us at <A href="mailto:Jobs@Grin.se">Jobs@Grin.se</A><BR><BR>
+   <TABLE width="550" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" align="top">
+    <TR align="left" valign="top" width="550">
+     <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>Programmers&nbsp;</B></FONT></TD>
+     <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3">Assignment:
+     <UL>
+      <LI>3D engine programming
+      <LI>Development tools for 3DSMax
+      <LI>Game programming
+     </UL>
+     Requirements:
+     <UL>
+      <LI>Extensive knowledge of C++
+      <LI>Knowledge of DirectX and Win32 APIs
+      <LI>Passion for making and playing games
+     </UL>
+     Fluent in English is a plus.<BR><BR>
+     &nbsp;</FONT></DIV></TD>
+    </TR>
+    <TR align="left" valign="top" width="550">
+     <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>3d Artists&nbsp;</B></FONT></TD>
+     <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3">Assignment:
+     <UL>
+      <LI>Level design/Level modelling
+      <LI>Game object modelling
+     </UL>
+     Requirements:
+     <UL>
+      <LI>Fluent in 3DSMax
+      <LI>Basic knowledge of Photoshop or similar
+      <LI>Passion for making and playing games
+     </UL>
+     Ability to draw / sketch is a plus.<BR><BR>
+     &nbsp;</FONT></DIV></TD>
+    </TR>
+    <TR align="left" valign="top" width="550">
+     <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>2d Artists&nbsp;</B></FONT></TD>
+     <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3">Assignment:
+     <UL>
+      <LI>Textures for levels and game objects
+      <LI>Design of various parts in production
+     </UL>
+     Requirements:
+     <UL>
+      <LI>Fluent in Photoshop or similar
+      <LI>Passion for making and playing games
+     </UL>
+     Basic knowledge of 3DSMax is a plus.<BR><BR>
+     &nbsp;</FONT></DIV></TD>
+    </TR>
+   </TABLE><BR>
+   <B>These are all fulltime positions</B>, so relocation to the Stockholm area is necessary.<BR><BR>-->
+   Get in touch with the WebLord through <A href="mailto:weblord@grin.se">WebLord@Grin.se</A>.<BR><BR>
+   <!--<DIV align="right"><A href="#sitetop"><B>Back to top</B></A></DIV><BR><BR>&nbsp;--></FONT></TD>
+  </TR>
+ </TABLE>
+</BODY>
+</HTML>

@@ -1,0 +1,151 @@
+<HTML>
+<HEAD>
+ <TITLE>Grin</TITLE>
+<LINK rel="stylesheet" type="text/css" href="css/grin_format.css">
+<SCRIPT language="JavaScript">
+<!--
+function MM_swapImgRestore()
+{ //v2.0
+ if (document.MM_swapImgData != null)
+ for (var i=0; i<(document.MM_swapImgData.length-1); i+=2)
+ document.MM_swapImgData[i].src = document.MM_swapImgData[i+1];
+}
+
+function MM_preloadImages()
+{ //v2.0
+ if (document.images)
+ {
+  var imgFiles = MM_preloadImages.arguments;
+  if (document.preloadArray==null) document.preloadArray = new Array();
+  var i = document.preloadArray.length;
+  with (document) for (var j=0; j<imgFiles.length; j++) if (imgFiles[j].charAt(0)!="#")
+  {
+   preloadArray[i] = new Image;
+   preloadArray[i++].src = imgFiles[j];
+  }
+ }
+}
+
+function MM_swapImage()
+{ //v2.0
+ var i,j=0,objStr,obj,swapArray=new Array,oldArray=document.MM_swapImgData;
+ for (i=0; i < (MM_swapImage.arguments.length-2); i+=3)
+ {
+  objStr = MM_swapImage.arguments[(navigator.appName == 'Netscape')?i:i+1];
+  if ((objStr.indexOf('document.layers[')==0 && document.layers==null) ||
+  (objStr.indexOf('document.all[')   ==0 && document.all   ==null))
+  objStr = 'document'+objStr.substring(objStr.lastIndexOf('.'),objStr.length);
+  obj = eval(objStr);
+  if (obj != null)
+  {
+   swapArray[j++] = obj;
+   swapArray[j++] = (oldArray==null || oldArray[j-1]!=obj)?obj.src:oldArray[j];
+   obj.src = MM_swapImage.arguments[i+2];
+  }
+ }
+ document.MM_swapImgData = swapArray; //used for restore
+}
+//-->
+ <!--
+ function popup_site(x)
+ {
+  window.open(x, "popup_site", "width=600,height=400,location=no,menubar=no,toolbar=no,resizable=no,scrollbars=no,status=no");
+ }
+ -->
+</SCRIPT>
+</HEAD>
+<BODY bgcolor="#4B5F5F" text="#C7BDB3" link="#C7BDB3" vlink="#C7BDB3" alink="#C7BDB3" onLoad="MM_preloadImages('bilder/News2.gif','#949677699070');MM_preloadImages('bilder/Company2.gif','#949677724060');MM_preloadImages('bilder/Contact2.gif','#949677750590');MM_preloadImages('bilder/Games2.gif','#949677790580');MM_preloadImages('bilder/Links2.gif','#949677821390')" leftmargin="0" topmargin="0" marginwifth="0" marginheight="0" align="center">
+<A name="sitetop"></A>
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" align="center" valign="top">
+ <TR align="center" valign="top" bgcolor="#4B5F5F">
+  <TD align="center" valign="top" bgcolor="#4B5F5F"><DIV align="center"><TABLE width="775" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" align="center" valign="top">
+    <TR>
+     <TD width="277" height="167" rowspan="3"><IMG src="bilder/LogoGrin.GIF" width="277" height="167"></TD>
+     <TD width="480" height="55">&nbsp;</TD>
+    </TR>
+    <TR>
+     <TD width="480" height="72" align="right"><DIV align="right"><IMG src="bilder/LogoText.GIF" width="295" height="72"></TD>
+    </TR>
+    <TR>
+     <TD width="480" height="45" align="right"><DIV align="right"><B><FONT size="1" face="Verdana,Arial,Helvetica,sans-serif" color="#333333">Last updated: 22nd Nov 2002 - GRIN Inc.<BR>
+      All content &copy; GRIN Inc. 2002</FONT></B></DIV></TD>
+    </TR>
+   </TABLE></DIV></TD>
+ </TR>
+ <TR align="center" valign="top" bgcolor="#4B5F5F">
+  <TD align="center" valign="top" bgcolor="#4B5F5F"><IMG src="bilder/DarkDot.gif" width="775" height="1"><BR><BR></TD>
+ </TR>
+ <TR align="center" valign="top" bgcolor="#4B5F5F">
+  <TD align="center" valign="top" bgcolor="#4B5F5F"><DIV align="center"><TABLE width="775" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" align="center" valign="top">
+    <TR>
+     <TD width="193" valign="top"><A href="news.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.News','document.News','bilder/News2.gif','#949677699070')"><IMG name="News" border="0" src="bilder/News.gif" width="103" height="35"></A><BR>
+      <A href="company.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Company','document.Company','bilder/Company2.gif','#949677724060')"><img name="Company" border="0" src="bilder/Company.gif" width="183" height="35"></A><BR>
+      <A href="games.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Games','document.Games','bilder/Games2.gif','#949677790580')"><IMG name="Games" border="0" src="bilder/Games.gif" width="126" height="35"></A><BR>
+      <A href="contact.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Contact','document.Contact','bilder/Contact2.gif','#949677750590')"><img name="Contact" border="0" src="bilder/Contact.gif" width="193" height="35"></A><BR>
+      <A href="links.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Links','document.Links','bilder/Links2.gif','#949677821390')"><IMG name="Links" border="0" src="bilder/Links.gif" width="106" height="35"></A><BR>
+      <DIV align="center"><A href="http://www.bandits-game.com/redirect.html"><IMG src="bilder/tormee_banner.gif" width="100" height="136" border="0"></A></DIV></TD>
+     <TD align="left" valign="top" width="22">&nbsp;</TD>
+     <TD align="left" valign="top" width="550"><TABLE border="0" cellpadding="0" cellspacing="0">
+       <TR>
+        <TD align="left" valign="center"><DIV align="left" valign="center"><IMG src="bilder/News_icon.gif" width="50" height="50"></DIV></TD>
+        <TD align="left" valign="center"><DIV align="left" valign="center"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="5" color="#A99573"><B>&nbsp;Press Release</B></FONT></DIV></TD>
+       </TR>
+      </TABLE><BR>
+      <TABLE width="550" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" align="top">
+       <TR align="center" valign="top" bgcolor="#4B5F5F">
+        <TD align="center" valign="top" bgcolor="#4B5F5F"><DIV align="center"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="3" color="#C7BDB3"><B>US publisher Tri Synergy has acquired the license for PAN Vision's acclaimed action title &quot;BANDITS - Phoenix Rising&quot; for the North American market</B></FONT><BR><BR>
+         <FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><I>Tri Synergy expects to release the game December this year</I></DIV><BR>
+         <DIV align="justify"><B>STOCKHOLM, Sweden, November 4th, 2002</B> &quot;BANDITS - Phoenix Rising&quot; is to be released in North America this December.<BR><BR>
+          Tri Synergy and the rest of the software world first learned about &quot;BANDITS - Phoenix Rising&quot; at the ECTS show in London earlier this autumn, leading to the contract for North America being signed this week.<BR>
+          <I>Tamra Nestler, President & CEO of Tri Synergy</I>, commenting on the titles shown at ECTS said:<BR><BR>
+          - In my opinion the most promising title on exhibit at ECTS this year was a well-kept secret called &quot;BANDITS - Phoenix Rising&quot;.<BR>
+          I predict that &quot;BANDITS&quot; will take the US market by storm and be the sleeper hit to come out of ECTS.<BR><BR>
+          - Tri Synergy is a medium size player in this important market and we feel they can give &quot;BANDITS - Phoenix Rising&quot; the necessary focus for a succesful North American launch, says <I>Peter Levin, CEO of PAN Vision</I>.<BR>
+          We are confident that Tri Synergy is big enough to make a broad impact, yet small enough to move quickly and get &quot;Bandits - Phoenix Rising&quot; the attention it deserves at the trade and retail levels. &quot;Bandits - Phoenix Rising&quot; has already proven its appeal and demand in the Nordic region with a highly succesful retail launch last month.<BR><BR>
+          - Tri Synergy is thrilled to be the North American publisher of &quot;BANDITS - Phoenix Rising&quot;.<BR>
+          &quot;BANDITS&quot; is by far the most exciting vehicular combat racing game to enter the PC gaming arena in years! says <I>Shane Nestler, Executive Vice President of Tri Synergy</I>.<BR>
+          Top notch graphics, amazing physics, an incredible soundtrack and fast paced, nonstop action are sure to make &quot;BANDITS&quot; a great success in North America and the rest of the world.<BR><BR>
+          - We trust PAN Vision and TriSynergy to do an excellent job publishing &quot;BANDITS&quot; in the US together, says <I>Bo Andersson, CEO of Grin Inc</I>, the developer of the game.<BR>
+          We know we have geared up with a great title, it will be exciting to see what it can do in the field.<BR><BR>
+          Founded in Dallas, Texas, in 1996, Tri Synergy is a computer and video game co-publishing company offering software developers an indispensable alternative to traditional affiliate label and licensing programs.<BR>
+          Tri Synergy actively encourages the creative process by relieving the developer of the time constraints inherent in managing the business factions of publishing a successful software title. Tri Synergy coordinates every key step for the developer including sales services, distribution, vendor relations, marketing, public relations, manufacturing, packaging, inventory management, fulfillment and more. Notable recent releases are, among others, <I>Anarchy Online</I>, <I>The Longest Journey</I> and <I>Duke Nukem Manhattan Project</I>.<BR><BR>
+          &quot;BANDITS - Phoenix Rising&quot; is a Mad Max-style action game for the PC.<BR>
+          The player controls an armed car and fights through more than twenty single player missions. The game also features an extensive multiplayer mode with LAN- and Internet support.<BR>
+          PAN Vision released &quot;BANDITS - Phoenix Rising&quot; late in September this year and the press have been enthusiastic, four out of five in major daily G&ouml;teborgs-Posten and the headline &quot;Amazingly Entertaining&quot; in major tabloid Aftonbladet, to name but a few.<BR>
+          &quot;BANDITS - Phoenix Rising&quot; has also been sold to Marksoft in Poland and CENEGA for Czech Republic, Slovakia and Hungary.<BR>
+          Snowball released &quot;BANDITS - Phoenix Rising&quot; in Russia in coordination with the Nordic Release.<BR>
+          PAN Vision is the Nordic region's leading developer and distributor of interactive entertainment.<BR>
+          PAN Vision is owned by KF Media and has a yearly turnover of 50 million USD.<BR><BR>
+          For more information please refer to:<BR><BR>
+          <DIV align="center"></FONT><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1"><A href="http://www.bandits-game.com" target="_blank">www.bandits-game.com</A> &#151; <A href="http://www.panvision.com" target="_blank">www.panvision.com</A> &#151; <A href="http://www.trisynergy.com" target="_blank">www.trisynergy.com</A>
+          <HR>
+          <TABLE border="0" width="550" cellpadding="5" cellspacing="0" valign="top">
+           <TR>
+            <TD align="left" valign="top"><DIV align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">Per Str&ouml;mb&auml;ck<BR>
+             Product Manager<BR>
+             <A href="mailto:per.stromback@panvision.com">per.stromback@panvision.com</A><BR>
+             +46-8-59 79 62 50 tel<BR>
+             +46-8-59 79 62 51 fax<BR><BR>
+             PAN Vision<BR>
+             Box 6809<BR>
+             SE-113 86 Stockholm<BR>
+             Sweden</FONT></DIV></TD>
+            <TD align="left" valign="top"><DIV align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">Sara Hedin<BR>
+             Export Manager<BR>
+             <A href="mailto:sara.hedin@panvision.com">sara.hedin@panvision.com</FONT></DIV></TD>
+            <TD valign="top"><DIV valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="1">Tamra Nestler<BR>
+             President & CEO<BR>
+             <A href="mailto:tamra@trisynergy.com">tamra@trisynergy.com</A><BR>
+             +1-307-732-2888 tel</FONT></DIV></TD>
+           </TR>
+          </TABLE>
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</DIV></TD>
+       </TR>
+      </TABLE></DIV></TD>
+    </TR>
+   </TABLE></TD>
+ </TR>
+</TABLE>
+</BODY>
+</HTML>

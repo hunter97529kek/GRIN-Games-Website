@@ -1,0 +1,121 @@
+<HTML>
+<HEAD>
+ <TITLE>Grin</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<STYLE type="text/css">
+<!--
+-->
+</STYLE>
+<SCRIPT language="JavaScript">
+<!--
+function MM_swapImgRestore()
+{ //v2.0
+ if (document.MM_swapImgData != null)
+ for (var i=0; i<(document.MM_swapImgData.length-1); i+=2)
+ document.MM_swapImgData[i].src = document.MM_swapImgData[i+1];
+}
+
+function MM_preloadImages()
+{ //v2.0
+ if (document.images)
+ {
+  var imgFiles = MM_preloadImages.arguments;
+  if (document.preloadArray==null) document.preloadArray = new Array();
+  var i = document.preloadArray.length;
+  with (document) for (var j=0; j<imgFiles.length; j++) if (imgFiles[j].charAt(0)!="#")
+  {
+   preloadArray[i] = new Image;
+   preloadArray[i++].src = imgFiles[j];
+  }
+ }
+}
+
+function MM_swapImage()
+{ //v2.0
+ var i,j=0,objStr,obj,swapArray=new Array,oldArray=document.MM_swapImgData;
+ for (i=0; i < (MM_swapImage.arguments.length-2); i+=3)
+ {
+  objStr = MM_swapImage.arguments[(navigator.appName == 'Netscape')?i:i+1];
+  if ((objStr.indexOf('document.layers[')==0 && document.layers==null) ||
+  (objStr.indexOf('document.all[')   ==0 && document.all   ==null))
+  objStr = 'document'+objStr.substring(objStr.lastIndexOf('.'),objStr.length);
+  obj = eval(objStr);
+  if (obj != null)
+  {
+   swapArray[j++] = obj;
+   swapArray[j++] = (oldArray==null || oldArray[j-1]!=obj)?obj.src:oldArray[j];
+   obj.src = MM_swapImage.arguments[i+2];
+  }
+ }
+ document.MM_swapImgData = swapArray; //used for restore
+}
+//-->
+<!--
+function popup_site(x)
+{
+  window.open(x, "popup_site", "width=600,height=400,location=no,menubar=no,toolbar=no,resizable=no,scrollbars=no,status=no");
+}
+-->
+</SCRIPT>
+</HEAD>
+<BODY bgcolor="#4B5F5F" text="#C7BDB3" link="#C7BDB3" vlink="#C7BDB3" alink="#C7BDB3" onLoad="MM_preloadImages('bilder/News2.gif','#949677699070');MM_preloadImages('bilder/Company2.gif','#949677724060');MM_preloadImages('bilder/Contact2.gif','#949677750590');MM_preloadImages('bilder/Games2.gif','#949677790580');MM_preloadImages('bilder/Links2.gif','#949677821390')" leftmargin="0" topmargin="0" marginwifth="0" marginheight="0" align="center">
+<A name="sitetop"></A>
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" align="center" valign="top">
+ <TR align="center" valign="top" bgcolor="#4B5F5F">
+  <TD align="center" valign="top" bgcolor="#4B5F5F"><DIV align="center"><TABLE width="775" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" align="center" valign="top">
+    <TR>
+     <TD width="277" height="167" rowspan="3"><IMG src="bilder/LogoGrin.GIF" width="277" height="167"></TD>
+     <TD width="480" height="55">&nbsp;</TD>
+    </TR>
+    <TR>
+     <TD width="480" height="72" align="right"><DIV align="right"><IMG src="bilder/LogoText.GIF" width="295" height="72"></TD>
+    </TR>
+    <TR>
+     <TD width="480" height="45" align="right"><DIV align="right"><B><FONT size="1" face="Verdana,Arial,Helvetica,sans-serif" color="#333333">Last updated: 22nd Nov 2002 - GRIN Inc.<BR>
+      All content &copy; GRIN Inc. 2002</FONT></B></DIV></TD>
+    </TR>
+   </TABLE></DIV></TD>
+ </TR>
+ <TR align="center" valign="top" bgcolor="#4B5F5F">
+  <TD align="center" valign="top" bgcolor="#4B5F5F"><IMG src="bilder/DarkDot.gif" width="775" height="1"><BR><BR></TD>
+ </TR>
+ <TR align="center" valign="top" bgcolor="#4B5F5F">
+  <TD align="center" valign="top" bgcolor="#4B5F5F"><DIV align="center"><TABLE width="775" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" align="center" valign="top">
+    <TR>
+     <TD width="193" valign="top"><A href="news.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.News','document.News','bilder/News2.gif','#949677699070')"><IMG name="News" border="0" src="bilder/News.gif" width="103" height="35"></A><BR>
+      <A href="company.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Company','document.Company','bilder/Company2.gif','#949677724060')"><img name="Company" border="0" src="bilder/Company.gif" width="183" height="35"></A><BR>
+      <A href="games.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Games','document.Games','bilder/Games2.gif','#949677790580')"><IMG name="Games" border="0" src="bilder/Games.gif" width="126" height="35"></A><BR>
+      <A href="contact.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Contact','document.Contact','bilder/Contact2.gif','#949677750590')"><img name="Contact" border="0" src="bilder/Contact.gif" width="193" height="35"></A><BR>
+      <A href="links.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Links','document.Links','bilder/Links2.gif','#949677821390')"><IMG name="Links" border="0" src="bilder/Links.gif" width="106" height="35"></A><BR>
+      <DIV align="center"><A href="http://www.bandits-game.com/redirect.html"><IMG src="bilder/tormee_banner.gif" width="100" height="136" border="0"></A></DIV></TD>
+     <TD align="left" valign="top" width="22">&nbsp;</TD>
+     <TD align="left" valign="top" width="550"><TABLE border="0" cellpadding="0" cellspacing="0">
+       <TR>
+        <TD align="left" valign="center"><DIV align="left" valign="center"><IMG src="bilder/News_icon.gif" width="50" height="50"></DIV></TD>
+        <TD align="left" valign="center"><DIV align="left" valign="center"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="5" color="#A99573"><B>&nbsp;Press Release</B></FONT></DIV></TD>
+       </TR>
+      </TABLE><BR>
+      <TABLE width="550" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" align="top">
+       <TR align="center" valign="top" bgcolor="#4B5F5F">
+        <TD align="center" valign="top" bgcolor="#4B5F5F"><DIV align="center"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="3" color="#C7BDB3"><B>INTERPLAY OEM, INC. AND GRIN ANNOUNCE EXCLUSIVE OEM DISTRIBUTION AGREEMENT</B></FONT><BR><BR>
+         <FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><I>Interplay OEM to Distribute Titles for Worldwide Bundling & Premium</I></DIV><BR><BR>
+         <DIV align="justify"><B>IRVINE, California, January 21, 2002</B> - Interplay OEM, Inc., a wholly owned subsidiary of Interplay Entertainment Corp. (NASDAQ: IPLY) announced today a worldwide Original Equipment Manufacturer (OEM) and Premium distribution agreement with Sweden based GRIN Inc. The agreement gives Interplay OEM, Inc. worldwide OEM and premium distribution rights on published titles from GRIN. Included is the breathtaking GeForce3&#153;-enhanced racing game, Ballistics&#153;.<BR><BR>
+         &quot;One of our goals as a company is to work with the industry's best developers who focus on technology-driven titles that push the gamers' limits,&quot; said Jill Goldworn, President of Interplay OEM, Inc.<BR>
+         &quot;GRIN's success is based on their ability to produce original, innovative and high quality products and we are very pleased to represent them to the global hardware community and the promotions industry, worldwide.&quot;<BR><BR>
+         &quot;Having created Ballistics - the fastest game on earth, GRIN is happy to see it is going to be accessed by so many high-end gamers purchasing new hardware in the year to come. We trust Interplay OEM as our partner to utilize their specific knowledge of the OEM market and with Ballistics deliver added value to their clients' products.&quot; said Bo Andersson, Chief Executive Officer, GRIN Inc.<BR><BR>
+         <B>About GRIN</B><BR><BR>
+         GRIN Inc, Stockholm Sweden, is a game developer bringing forth games on the PC and Xbox.<BR>
+         GRIN has been working closely with <I>n</I>VIDIA Inc. to utilize their latest GeForce series of cards in all of GRIN's present and upcoming games.<BR>
+         Specializing in pixel and vertex-shader technology, GRIN raises the value of high-end hardware with high-end games.<BR><BR>
+         <I>End of press release.</I><BR><BR>
+         Press is always welcome with inquiries at <A href="mailto:Press@Grin.se">Press@Grin.se</A>.<BR><BR>
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</DIV></TD>
+       </TR>
+      </TABLE></DIV></TD>
+    </TR>
+   </TABLE></TD>
+ </TR>
+</TABLE>
+</BODY>
+</HTML>

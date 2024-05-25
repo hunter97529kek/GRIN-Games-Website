@@ -1,0 +1,40 @@
+<HTML>
+<HEAD>
+ <TITLE>GRIN Inc - The Website</TITLE>
+ <LINK rel="stylesheet" type="text/css" href="css/grin_format.css">
+</HEAD>
+<BODY bgcolor="#4B5F5F" text="#F1EEE7" link="#F2EACF" vlink="#F2EACF" alink="#F2EACF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" align="center">
+<DIV align="left"><A name="sitetop"></A>
+<TABLE width="535" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" valign="top">
+ <TR>
+  <TD align="left" valign="top" width="535"><DIV align="center"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="3" color="#C7BDB3"><B>PAN Vision has acquired the worldwide publishing rights to &quot;BANDITS - Phoenix Rising&quot; for the PC platform.</B></FONT><BR><BR>
+   <FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><I>BANDITS will be published by <B>PAN Vision</B> and has been developed by <B>GRIN</B>.</I></DIV><BR><BR>
+   <DIV align="justify"><B>STOCKHOLM, Sweden, July 23rd, 2002</B> - GRIN has been developing BANDITS behind closed doors for over a year and now that we stand finished we are more then thrilled with the result. It turned out great, using the GRIN 3D engine it includes more action and special effects than you can shake a stick at!&#153;.<BR><BR>
+   PAN Vision plan to release the action game BANDITS in <B>October 2002</B>.<BR><BR>
+   The player is thrown into a Mad Max-like environment where the survival of the fittest is decided by vehicle combat. A story driven action game where the handling of gears and guns decides your fate.<BR><BR>
+   In BANDITS you control battle cars equipped with a cool array of guns and ammo. The story strings out over 22 missions along which you get to have new cars, weapons, meet new friends and blow them sky high.<BR><BR>
+   As the leader of the notorious gang - <B>The Wolfpack</B> - you strap yourself into your battle car and take on the world!<BR><BR>
+   </DIV><DIV align="center"><B>GEAR UP and GUN DOWN!</B></DIV><BR>
+   <TABLE width="530" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" align="top">
+    <TR>
+     <TD width="170"><A href="bandits\popup\screen1.html" target="_blank"><IMG src="bandits\bandits_screenshots\screen1thumb.jpg" border="0" alt="In game screenshot - click to enlarge" width="170" height="128"></A></TD>
+     <TD width="5">&nbsp;</TD>
+     <TD width="170"><A href="bandits\popup\screen2.html" target="_blank"><IMG src="bandits\bandits_screenshots\screen2thumb.jpg" border="0" alt="In game screenshot - click to enlarge" width="170" height="128"></A></TD>
+     <TD width="5">&nbsp;</TD>
+     <TD width="170"><A href="bandits\popup\screen3.html" target="_blank"><IMG src="bandits\bandits_screenshots\screen3thumb.jpg" border="0" alt="In game screenshot - click to enlarge" width="170" height="128"></A></TD>
+    </TR>
+   </TABLE><BR>
+   <DIV align="justify">For more information about <B>BANDITS - Phoenix Rising</B>, <A href="bandits/default.html">go here</A>.<BR><BR>
+   <I>End of press release.</I><BR><BR>
+   <B>About GRIN</B><BR><BR>
+   GRIN Inc, Stockholm Sweden, is a game developer bringing forth games on the PC and Xbox.<BR>
+   Specializing in pixel and vertex-shader technology, GRIN raises the value of high-end hardware with high-end games.<BR><BR>
+   Press is always welcome with inquiries at <A href="mailto:Press@Grin.se">Press@Grin.se</A>.<BR><BR>
+   <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="javascript:history.back();"><B>Back to News</B></A><BR>
+   <A href="#sitetop"><B>Back to top</B></A><BR>
+   &nbsp;</DIV></TD>
+ </TR>
+</TABLE>
+</DIV>
+</BODY>
+</HTML>

@@ -1,0 +1,230 @@
+<HTML>
+<!--
+
+----------------------------------------
+----------------------------------------
+--- SITE BY Grin -----------------------
+----------------------------------------
+--- webmaster@grin.se ------------------
+----------------------------------------
+----------------------------------------
+
+-->
+<HEAD>
+<TITLE>GRIN.SE</TITLE>
+<META Name="description" Content="GRIN">
+<META Name="keywords" Content="">
+<META NAME="Author" CONTENT="Hjalmar Vikström">
+<LINK REL="SHORTCUT ICON" HREF="/favicon.ico">
+<LINK REL="stylesheet" TYPE="text/css" HREF="css/style.css">
+
+<META NAME="Classification" CONTENT="">
+
+<script language="JavaScript" type="text/javascript">
+<!--
+	function mouse_over( obj, name ) {
+		document.getElementById( obj ).className = name+"_hover";
+	}
+	function mouse_out( obj, name ) {
+		document.getElementById( obj ).className = name;
+	}
+	
+	function mouse_over_obj( obj, name ) {
+		obj.className = name+"_hover";
+	}
+	function mouse_out_obj( obj, name ) {
+		obj.className = name;
+	}
+
+	function scroll( y ) {
+		var n = 0;
+		var ny = y*2000;
+		var ay = Math.abs(ny);
+		var i = 7*(ny/ay);
+		var ai = Math.abs(i);
+  		while( n <= ay ) {
+  			var c = i;
+  			var nn = (n+ai);
+  			//if( ((y > 0) && (nn > ay)) || ((y < 0) && (nn < ay)) ) {
+  			//c = nn - ay;
+  			//}
+  			top.mainframe.content.scrollBy(c,0);
+  			n=nn;
+  		}
+	}
+	
+	function scroll_office( y, arrow ) {
+		var n = 0;
+		var ny = y*1000;
+		var ay = Math.abs(ny);
+		var i = 3*(ny/ay);
+		var ai = Math.abs(i);
+  		while( n <= ay ) {
+  			var c = i;
+  			var nn = (n+ai);
+  			top.mainframe.content.scrollBy(c,0);
+  			n=nn;
+  		}
+		/*
+  		if( n > ay ) {
+  			var con = document.getElementById("con_office_1");
+  			alert(con.style.pixelLeft);
+  			con.style.pixelLeft=con.style.pixelLeft+ny;
+  		}
+  		*/
+	}
+	function launch( url, theName, w, h ) {
+		var x=100;
+		var y=100;
+		param='width='+w+',height='+h+',location=no,resizable=no,menubar=no,scrollbars=no,status=no,toolbar=no,titlebar=no,left='+x+',top='+y;
+		theWindowr=window.open( '/pop_image.php?url='+url, '_blank', param );
+		theWindow.focus();
+	}
+	function launch_team() {
+		var x=100;
+		var y=100;
+		param='width=620,height=470,location=no,resizable=no,menubar=no,scrollbars=no,status=no,toolbar=no,titlebar=no,left='+x+',top='+y;
+		theWindowr=window.open( '/pop_team.php?nr=1', '_blank', param );
+		theWindow.focus();
+	}
+	function launch_team_images() {
+		var x=100;
+		var y=100;
+		param='width=620,height=470,location=no,resizable=no,menubar=no,scrollbars=no,status=no,toolbar=no,titlebar=no,left='+x+',top='+y;
+		theWindowr=window.open( '/pop_team_images.php?nr=1', '_blank', param );
+		theWindow.focus();
+	}
+//-->
+</script>
+</HEAD>
+<BODY class="content" CELLPADDING="0" CELLSPACING="0" MARGINWIDH="0" MARGINHEIGHT="0">
+	<span class="con_1">
+	<table class="content" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+		<tr>
+			<td class="content_left">
+				<b>Welcome.</b> Welcome to GRIN - the developer of the PC version of<br><br>
+				<center><a href="http://www.ghostrecon.com" target="_blank"><img src="images/graw_logo01.gif" border="0"></a></center><br>
+				GRIN is a Sweden-based game developer who creates games for the next generation console and high-end PC platforms. This is GRIN's home on the Internet, and - once again - welcome.<br><br>
+				This is the site to go to for information about the company, news on current projects as well as documentation on past projects, and info on job openings.<br><br>
+				<!--We wish you a good day!-->
+			</td>
+			<td class="images" width="120"><img src="images/soldier21.jpg" border="0" class="content" height="55" width="82"/><img src="images/soldier22.jpg" border="0" class="content" height="55" width="82"/><img src="images/soldier23.jpg" border="0" class="content" height="55" width="82"/><img src="images/soldier24.jpg" border="0" class="content" height="55" width="82"/></td>
+			<td class="content_right">
+				<B>News.</B>
+				<UL>
+					<li>
+						<b>News reports.</b> GRIN's Ghost Recon: Advanced Warfighter is being shown at the
+						German Games Convention in Leipzig 18-21/8. <a href="javascript:scroll(1);">Go here</a> to get some info.
+					</li>
+					<li>
+						<b>Pressrelease.</b> 
+						Today, GRIN is proud to confirm that they are developing the PC version for 
+						Tom Clancy's Ghost Recon Advanced Warfighter&trade;.
+						<br/>
+						<a href="javascript:scroll(2);">Read more.</a>
+					</li>
+					<li>
+						<b>Jobs.</b> GRIN is now looking for skilled 3d artists and level designers! Go to the 
+						<a href="mainframe.php?page=jobs" target="mainframe">jobs page</a> for more info.
+					</li>
+					<li>
+						<b>GRIN is signed to a huge brand.</b>
+						<br/>
+						<a href="javascript:scroll(3);">Read more.</a>
+					</li>
+				</UL>
+			</td>
+		</tr>
+	</table>
+	</span>
+
+	<span class="con_2">
+	<table class="content" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+		<tr>
+ 			<td class="arrow">
+ 				<a href="javascript:scroll(-1);">
+ 					<img src="images/arrow_left.gif" class="arrow" border="0" alt="<" onmouseover="mouse_over_obj(this, 'arrow' );" onmouseout="mouse_out_obj(this, 'arrow' );">
+ 				</a>
+ 			</td>			
+		
+			<td class="content_left">
+				<b>GC Germany</b>
+				Ghost Recon: Advanced Warfighter is currently being exhibited at the Games Convention in Leipzig, Germany.
+				To quench your thirst for news on the game, we'll put up links to articles that might be of interest.
+				<br/><br/>
+				<a href="http://pc.ign.com/articles/643/643119p1.html" target="_blank">IGN article</a><BR><BR>
+				<a href="http://pc.gamespy.com/pc/tom-clancys-ghost-recon-3/643763p1.html" target="_blank">GameSpy article</a>
+				<br><br>
+				We'd also like to quote Dan Morris of US PC Gamer, saying <i>"The graphics are outstanding.</i> (...) <i>New animations allow your troops to slide for cover, while AI innovations direct your teammates to find cover even in a shifting enviroment.</i> (...) <i>If the PC-specific tactical elements arrive as currently configured, this game will go straight in my hard drive."</i>
+				<!--<b>GRIN out.</b><img src="images/smiley.gif" ALIGN="texttop"/>-->
+			</td>
+			<td class="images" width="120"><img src="images/soldier21.jpg" border="0" class="content" height="55" width="82"/><img src="images/soldier22.jpg" border="0" class="content" height="55" width="82"/><img src="images/soldier23.jpg" border="0" class="content" height="55" width="82"/><img src="images/soldier24.jpg" border="0" class="content" height="55" width="82"/></td>
+			<td class="content_right">
+			</td>
+		</tr>
+	</table>
+	</span>
+
+	<span class="con_3">
+	<table class="content" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+		<tr>
+ 			<td class="arrow">
+ 				<a href="javascript:scroll(-2);">
+ 					<img src="images/arrow_left.gif" class="arrow" border="0" alt="<" onmouseover="mouse_over_obj(this, 'arrow' );" onmouseout="mouse_out_obj(this, 'arrow' );">
+ 				</a>
+ 			</td>			
+		<td class="content_left">
+				<b>Official announcement</b>
+					STOCKHOLM - June 27 2005 - Today, GRIN is proud to confirm that they are developing the PC version for 
+					Tom Clancy's Ghost Recon Advanced Warfighter&trade;. Working in close collaboration with Ubisoft's studios, 
+					GRIN is delighted to bring its expertise to the next installment on Windows® PC DVD-ROM of the smash-hit 
+					squad based shooter franchise.<br><br>
+					GRIN has strong experience in military applications (they started developing software for 
+					the armed forces). They distinguished themselves in developing groundbreaking technology; 
+					GRIN made the first game to feature pixel shaders in cooperation with Nvidia for the launch of the GeForce 3.
+					<br><br>
+					For more information on Tom Clancy's Ghost Recon Advanced Warfighter&trade;, visit the game's official 
+					website: <a href="http://www.ghostrecon.com" target="_blank">http://www.ghostrecon.com</a>
+			</td>
+			<td class="images" width="120"><a href="javascript:launch('images/GR3/UBI_gr3_pc_050622_1.jpg', 'screen', 820, 660);"><img src="images/GR3/UBI_gr3_pc_050622_1.jpg" border="0" class="content" height="55" width="82"/></a><a href="javascript:launch('images/GR3/UBI_gr3_pc_050622_2.jpg', 'screen', 820, 660);"><img src="images/GR3/UBI_gr3_pc_050622_2_ss.jpg" border="0" class="content" height="55" width="82"/></a><a href="javascript:launch('images/GR3/UBI_gr3_pc_050622_3.jpg', 'screen', 820, 660);"><img src="images/GR3/UBI_gr3_pc_050622_3_ss.jpg" border="0" class="content" height="55" width="82"/></a><!--<a href="javascript:launch('images/bandits/bandits_4.jpg', 'screen', 620, 470);"><img src="images/bandits/UBI_gr3_pc_050622_4.jpg" border="0" class="content" height="55" width="82"/></a>--></td>
+			<td class="content_right">
+			</td>
+		</tr>
+	</table>
+	</span>
+
+	<span class="con_4">
+	<table class="content" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+		<tr>
+ 			<td class="arrow">
+ 				<a href="javascript:scroll(-3);">
+ 					<img src="images/arrow_left.gif" class="arrow" border="0" alt="<" onmouseover="mouse_over_obj(this, 'arrow' );" onmouseout="mouse_out_obj(this, 'arrow' );">
+ 				</a>
+ 			</td>			
+		
+			<td class="content_left">
+				<b>New project</b>
+				GRIN is currently working with Ubisoft to develop the PC version for the upcoming installment of one of the publisher’s major brands.
+				<br/><br/>
+				<i>
+				We at GRIN are excited and truly happy to be trusted with the development of this game and to bring the 
+				legacy forward on the PC. The name of the brand is a no brainer - but we leave it 
+				at that for the moment, going covert and stealthy just as it should be. 
+				<br/><br/>
+				We want the fans to know that we are fans ourselves and are working hard to bring the classic feeling 
+				into the new product.
+				<br><br>
+				<b>GRIN out.</b></i> <img src="images/smiley.gif" ALIGN="texttop"/>
+			</td>
+			<td class="images" width="120"><img src="images/soldier21.jpg" border="0" class="content" height="55" width="82"/><img src="images/soldier22.jpg" border="0" class="content" height="55" width="82"/><img src="images/soldier23.jpg" border="0" class="content" height="55" width="82"/><img src="images/soldier24.jpg" border="0" class="content" height="55" width="82"/></td>
+			<td class="content_right">
+			</td>
+		</tr>
+	</table>
+	</span>
+
+ 	<span class="con_5">
+		&nbsp;
+ 	</span>
+</BODY>
+</HTML>

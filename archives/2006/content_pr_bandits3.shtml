@@ -1,0 +1,50 @@
+<HTML>
+<HEAD>
+ <TITLE>GRIN Inc - The Website</TITLE>
+ <LINK rel="stylesheet" type="text/css" href="css/grin_format.css">
+</HEAD>
+<BODY bgcolor="#4B5F5F" text="#F1EEE7" link="#F2EACF" vlink="#F2EACF" alink="#F2EACF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" align="center">
+<DIV align="left"><A name="sitetop"></A>
+<TABLE width="535" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" valign="top">
+ <TR>
+  <TD align="left" valign="top" width="535"><DIV align="center"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="3" color="#C7BDB3"><B>&quot;BANDITS - Phoenix Rising&quot; 1.1.1 patch out now!</B></FONT><BR><BR>
+   </DIV><DIV align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><I>GRIN now posts the &quot;BANDITS - Phoenix Rising&quot; patch for all territories</I><BR><BR>
+   If you have already installed the previous US patch 1.1.1 this is nothing new, only now it works on European and Australian versions as well.<BR><BR>
+   </DIV><DIV align="center"><A href="games/bandits_downloads/BanditsPatch_1.1.1.exe">Rightclick here and choose &quot;Save Target As&quot; to download the patch</A><BR><BR>
+   </DIV><DIV align="justify">To install, simply run and extract the downloaded file into the folder on your harddrive in which you have already installed your copy of &quot;BANDITS - Phoenix Rising&quot;.<BR>
+   If you have the TriSynergy version of BANDITS, make sure you type in this folder path correctly when prompted.<BR><BR>
+   Patch 1.1.1 modifications: <I>(Note: Some of these fixes are already implemented in the Trisynery's version of the game (the American version))</I><BR><BR>
+   Modified gamebalance:<BR>
+   <UL>
+    <LI>The game starts with more weapons available, namely the Sharkbite and the Scrapmaker
+    <LI>Weapons in general are now recieved earlier in the game
+    <LI>All player vehicles have increased armour levels
+    <LI>Vincent has decreased armour level
+    <LI>Sebastion has decreased armour level
+    <LI>The train in mission 13 has increased armour level
+    <LI>All enemies have been additionally balanced
+   </UL>
+   Major bugs fixed:<BR>
+   <UL>
+    <LI>Fixed a bug in Windows XP which sometimes made the game lag and then die
+   </UL>
+   Minor bugs fixed:
+   <UL>
+    <LI>Fixed a bug in mission 3 which could result in a checkpoint not being recognized
+    <LI>Fixed a bug in mission 5 that sometimes made the enemies disappear or hard to find
+    <LI>Fixed a bug in mission 12 which could result in certain mission information not being presented to the Player
+    <LI>Additional fixes to increase stability on certain ATI and <I>n</I>Vidia cards, though always make sure you use the latest drivers from ATI and <I>n</I>Vidia
+   </UL>
+   Additional candy provided:<BR>
+   <UL>
+    <LI>Added a new multiplayer level
+    <LI>All files are now open for moding, such as weapons and effects (just open and edit the xml files to mod)
+   </UL>
+  <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="javascript:history.back();"><B>Back to News</B></A><BR>
+   <A href="#sitetop"><B>Back to top</B></A><BR>
+   &nbsp;</DIV></TD>
+ </TR>
+</TABLE>
+</DIV>
+</BODY>
+</HTML>
