@@ -1,0 +1,95 @@
+<HTML>
+<HEAD>
+ <TITLE>Grin</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<STYLE type="text/css">
+<!--
+-->
+</STYLE>
+<SCRIPT language="JavaScript">
+<!--
+function MM_swapImgRestore()
+{ //v2.0
+ if (document.MM_swapImgData != null)
+ for (var i=0; i<(document.MM_swapImgData.length-1); i+=2)
+ document.MM_swapImgData[i].src = document.MM_swapImgData[i+1];
+}
+
+function MM_preloadImages()
+{ //v2.0
+ if (document.images)
+ {
+  var imgFiles = MM_preloadImages.arguments;
+  if (document.preloadArray==null) document.preloadArray = new Array();
+  var i = document.preloadArray.length;
+  with (document) for (var j=0; j<imgFiles.length; j++) if (imgFiles[j].charAt(0)!="#")
+  {
+   preloadArray[i] = new Image;
+   preloadArray[i++].src = imgFiles[j];
+  }
+ }
+}
+
+function MM_swapImage()
+{ //v2.0
+ var i,j=0,objStr,obj,swapArray=new Array,oldArray=document.MM_swapImgData;
+ for (i=0; i < (MM_swapImage.arguments.length-2); i+=3)
+ {
+  objStr = MM_swapImage.arguments[(navigator.appName == 'Netscape')?i:i+1];
+  if ((objStr.indexOf('document.layers[')==0 && document.layers==null) ||
+  (objStr.indexOf('document.all[')   ==0 && document.all   ==null))
+  objStr = 'document'+objStr.substring(objStr.lastIndexOf('.'),objStr.length);
+  obj = eval(objStr);
+  if (obj != null)
+  {
+   swapArray[j++] = obj;
+   swapArray[j++] = (oldArray==null || oldArray[j-1]!=obj)?obj.src:oldArray[j];
+   obj.src = MM_swapImage.arguments[i+2];
+  }
+ }
+ document.MM_swapImgData = swapArray; //used for restore
+}
+//-->
+</SCRIPT>
+</HEAD>
+<BODY bgcolor="#4B5F5F" text="#C7BDB3" link="#C7BDB3" vlink="#C7BDB3" alink="#C7BDB3" onLoad="MM_preloadImages('bilder/News2.gif','#949677699070');MM_preloadImages('bilder/Company2.gif','#949677724060');MM_preloadImages('bilder/Contact2.gif','#949677750590');MM_preloadImages('bilder/Games2.gif','#949677790580');MM_preloadImages('bilder/Links2.gif','#949677821390')" leftmargin="0" topmargin="0" marginwifth="0" marginheight="0" align="center">
+<A name="sitetop"></A>
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" align="center" valign="top"> <!-- bordercolordark="#ffffff" bordercolorlight="#4B5F5F" bordercolor="#4B5F5F" -->
+ <TR align="center" valign="top" bgcolor="#4B5F5F">
+  <TD align="center" valign="top" bgcolor="#4B5F5F"><DIV align="center"><TABLE width="775" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" align="center" valign="top"> <!-- bordercolordark="#ffffff" bordercolorlight="#4B5F5F" bordercolor="#4B5F5F" -->
+    <TR>
+     <TD width="277" height="167" rowspan="3"><IMG src="bilder/LogoGrin.GIF" width="277" height="167"></TD>
+     <TD width="480" height="55">&nbsp;</TD>
+    </TR>
+    <TR>
+     <TD width="480" height="72" align="right"><DIV align="right"><IMG src="bilder/LogoText.GIF" width="295" height="72"></TD>
+    </TR>
+    <TR>
+     <TD width="480" height="45" align="right"><DIV align="right"><B><FONT size="1" face="Verdana,Arial,Helvetica,sans-serif" color="#333333">Last updated: 27th Feb 2001 - GRIN Inc.<BR>
+      All content &copy; GRIN Inc. 2000</FONT></B></DIV></TD>
+    </TR>
+   </TABLE></DIV></TD>
+ </TR>
+ <TR align="center" valign="top" bgcolor="#4B5F5F">
+  <TD align="center" valign="top" bgcolor="#4B5F5F"><IMG src="bilder/DarkDot.gif" width="775" height="1"><BR><BR></TD>
+ </TR>
+ <TR align="center" valign="top" bgcolor="#4B5F5F">
+  <TD align="center" valign="top" bgcolor="#4B5F5F"><DIV align="center"><TABLE width="775" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" align="center" valign="top"> <!-- bordercolordark="#ffffff" bordercolorlight="#4B5F5F" bordercolor="#4B5F5F" -->
+    <TR>
+     <TD width="193" valign="top"><A href="news.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.News','document.News','bilder/News2.gif','#949677699070')"><IMG name="News" border="0" src="bilder/News.gif" width="103" height="35"></A><BR>
+      <A href="company.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Company','document.Company','bilder/Company2.gif','#949677724060')"><img name="Company" border="0" src="bilder/Company.gif" width="183" height="35"></A><BR>
+      <A href="games.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Games','document.Games','bilder/Games2.gif','#949677790580')"><img name="Games" border="0" src="bilder/Games.gif" width="126" height="35"></A><BR>
+      <A href="contact.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Contact','document.Contact','bilder/Contact2.gif','#949677750590')"><img name="Contact" border="0" src="bilder/Contact.gif" width="193" height="35"></A><BR>
+      <A href="links.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Links','document.Links','bilder/Links2.gif','#949677821390')"><img name="Links" border="0" src="bilder/Links.gif" width="106" height="35"></A></TD>
+     <TD align="left" valign="top" width="22">&nbsp;</TD>
+     <TD align="left" valign="top" width="550"><DIV align="left"><IMG src="bilder/Games_icon.gif" width="50" height="50"><IMG src="bilder/Gamesb.gif" width="180" height="50"></DIV><BR>
+      <P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>GRIN is currently developing the worlds fastest racing game by far titled Ballistics.</B><BR><BR>
+      <A href="ballistics/default.htm">Enter Ballistics&#153; website</A>.<BR><BR>
+      <!--<DIV align="right"><A href="#sitetop"><B>Back to top</B></A></DIV>--><BR><BR>
+      &nbsp;</FONT></P></TD>
+    </TR>
+   </TABLE></DIV></TD>
+ </TR>
+</TABLE>
+</BODY>
+</HTML>
