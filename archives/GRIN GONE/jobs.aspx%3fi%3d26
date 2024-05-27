@@ -1,0 +1,668 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>GRIN</title>
+  <link href="styles/screen.css" rel="stylesheet" type="text/css" />
+
+  <script language="javascript" src="js/sleight.js"></script>
+
+</head>
+<body>
+  <form name="aspnetForm" method="post" action="jobs.aspx?i=26" id="aspnetForm" enctype="multipart/form-data">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MjAzNDMzMDAPFgIeCUpvYnVwZGF0ZQUbMTklMmYwMiUyZjIwMDkrMTYlM2ExMCUzYTMyZGRMbZ1uId+5B9urKZf1OyD837hWJw==" />
+
+  <div id="main_wrapper">
+  <!----- header and shadow ----->
+  <div id="header">
+    
+
+<img src="img/header/top.png" width="900" height="99" border="0" usemap="#Map" />
+<map name="Map" id="Map"><area shape="rect" coords="332,59,372,80" href="./" alt="START" />
+<area shape="rect" coords="384,59,419,81" href="news.aspx" alt="NEWS" />
+<area shape="rect" coords="434,60,472,84" href="about.aspx" alt="About" />
+<area shape="rect" coords="488,59,527,82" href="games.aspx" alt="GAMES" />
+<area shape="rect" coords="543,58,575,83" href="jobs.aspx" alt="JOBS" />
+<area shape="rect" coords="592,59,641,84" href="contact.aspx" alt="CONTACT" />
+<area shape="rect" coords="651,58,690,82" href="blog.aspx" alt="BLOG" />
+<area shape="rect" coords="700,59,740,84" href="press.aspx" alt="PRESS" />
+<area shape="rect" coords="15,9,268,92" href="Default.aspx" alt="START" />
+</map>
+
+  </div>
+  <div id="header_shadow">
+  </div>
+  <!----- header and shadow ----->
+  <!----- content wrapper ----->
+  <div id="wrapper">
+    <div id="inner_wrapper">
+      <div id="content">
+        
+  <div class="column_holder">
+    <h1>
+      <img alt="JOBS" src="/images/headers/pf_heading/dynamicimage.aspx?text=JOBS" />
+    </h1>
+    <div class="column_heading">
+      <span id="ctl00_ContentPlaceHolder1_lblTop"><p>GRIN is constantly looking for talented people. All available positions are listed below. Apply via the form or by e-mail.  If you are interested in a position that isn&rsquo;t listed, please send your CV via e-mail to jobs@grin.se.</p></span></div>
+    <div class="column_sep">
+      <img src="img/jobs/jobs_open_sep.png" alt="Open positions" /></div>
+    
+    
+      <div class="column_content">
+        <h1>
+          <img alt="Tuesday 02 December 2008" src="/images/headers/pf_small/dynamicimage.aspx?text=Tuesday 02 December 2008" />
+        </h1>
+        <h2>
+          <img alt="Senior Concept Artist - Barcelona" src="/images/headers/pf_heading/dynamicimage.aspx?text=Senior Concept Artist - Barcelona" />
+        </h2>
+        <p>
+          <span id="ctl00_ContentPlaceHolder1_lblJobText"><p>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta content="Word.Document" name="ProgId" />
+<meta content="Microsoft Word 12" name="Generator" />
+<meta content="Microsoft Word 12" name="Originator" />
+<link href="file:///C:\Users\GUNNAR~1\AppData\Local\Temp\msohtmlclip1\01\clip_filelist.xml" rel="File-List" />
+<link href="file:///C:\Users\GUNNAR~1\AppData\Local\Temp\msohtmlclip1\01\clip_themedata.thmx" rel="themeData" />
+<link href="file:///C:\Users\GUNNAR~1\AppData\Local\Temp\msohtmlclip1\01\clip_colorschememapping.xml" rel="colorSchemeMapping" /></p>
+<!--[if gte mso 9]><xml>
+<w:WordDocument>
+<w:View>Normal</w:View>
+<w:Zoom>0</w:Zoom>
+<w:TrackMoves />
+<w:TrackFormatting />
+<w:HyphenationZone>21</w:HyphenationZone>
+<w:PunctuationKerning />
+<w:ValidateAgainstSchemas />
+<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+<w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+<w:DoNotPromoteQF />
+<w:LidThemeOther>SV</w:LidThemeOther>
+<w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+<w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+<w:Compatibility>
+<w:BreakWrappedTables />
+<w:SnapToGridInCell />
+<w:WrapTextWithPunct />
+<w:UseAsianBreakRules />
+<w:DontGrowAutofit />
+<w:SplitPgBreakAndParaMark />
+<w:DontVertAlignCellWithSp />
+<w:DontBreakConstrainedForcedTables />
+<w:DontVertAlignInTxbx />
+<w:Word11KerningPairs />
+<w:CachedColBalance />
+</w:Compatibility>
+<w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+<m:mathPr>
+<m:mathFont m:val="Cambria Math" />
+<m:brkBin m:val="before" />
+<m:brkBinSub m:val="&#45;-" />
+<m:smallFrac m:val="off" />
+<m:dispDef />
+<m:lMargin m:val="0" />
+<m:rMargin m:val="0" />
+<m:defJc m:val="centerGroup" />
+<m:wrapIndent m:val="1440" />
+<m:intLim m:val="subSup" />
+<m:naryLim m:val="undOvr" />
+</m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+LatentStyleCount="267">
+<w:LsdException Locked="false" Priority="0" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Normal" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="heading 1" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9" />
+<w:LsdException Locked="false" Priority="39" Name="toc 1" />
+<w:LsdException Locked="false" Priority="39" Name="toc 2" />
+<w:LsdException Locked="false" Priority="39" Name="toc 3" />
+<w:LsdException Locked="false" Priority="39" Name="toc 4" />
+<w:LsdException Locked="false" Priority="39" Name="toc 5" />
+<w:LsdException Locked="false" Priority="39" Name="toc 6" />
+<w:LsdException Locked="false" Priority="39" Name="toc 7" />
+<w:LsdException Locked="false" Priority="39" Name="toc 8" />
+<w:LsdException Locked="false" Priority="39" Name="toc 9" />
+<w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption" />
+<w:LsdException Locked="false" Priority="10" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Title" />
+<w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font" />
+<w:LsdException Locked="false" Priority="11" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtitle" />
+<w:LsdException Locked="false" Priority="22" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Strong" />
+<w:LsdException Locked="false" Priority="20" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Emphasis" />
+<w:LsdException Locked="false" Priority="59" SemiHidden="false"
+UnhideWhenUsed="false" Name="Table Grid" />
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text" />
+<w:LsdException Locked="false" Priority="1" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="No Spacing" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 1" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 1" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 1" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 1" />
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision" />
+<w:LsdException Locked="false" Priority="34" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="List Paragraph" />
+<w:LsdException Locked="false" Priority="29" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Quote" />
+<w:LsdException Locked="false" Priority="30" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Quote" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 1" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 1" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 1" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 1" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 1" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 2" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 2" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 2" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 2" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 2" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 2" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 2" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 2" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 2" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 3" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 3" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 3" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 3" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 3" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 3" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 3" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 3" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 3" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 4" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 4" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 4" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 4" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 4" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 4" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 4" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 4" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 4" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 5" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 5" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 5" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 5" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 5" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 5" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 5" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 5" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 5" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 6" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 6" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 6" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 6" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 6" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 6" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 6" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 6" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 6" />
+<w:LsdException Locked="false" Priority="19" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis" />
+<w:LsdException Locked="false" Priority="21" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis" />
+<w:LsdException Locked="false" Priority="31" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference" />
+<w:LsdException Locked="false" Priority="32" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Reference" />
+<w:LsdException Locked="false" Priority="33" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Book Title" />
+<w:LsdException Locked="false" Priority="37" Name="Bibliography" />
+<w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading" />
+</w:LatentStyles>
+</xml><![endif]-->
+<p><style type="text/css">
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610611985 1073750139 0 0 159 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	mso-hyphenate:none;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:Calibri;
+	mso-ansi-language:ES;
+	mso-fareast-language:AR-SA;}
+p.Prrafodelista, li.Prrafodelista, div.Prrafodelista
+	{mso-style-name:"Párrafo de lista";
+	mso-style-unhide:no;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	mso-hyphenate:none;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:Calibri;
+	mso-ansi-language:ES;
+	mso-fareast-language:AR-SA;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:1;
+	mso-list-type:simple;
+	mso-list-template-ids:1;
+	mso-list-name:WW8Num1;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:?;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ascii-font-family:Symbol;
+	mso-hansi-font-family:Symbol;}
+@list l1
+	{mso-list-id:2;
+	mso-list-type:simple;
+	mso-list-template-ids:2;
+	mso-list-name:WW8Num2;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:?;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ascii-font-family:Symbol;
+	mso-hansi-font-family:Symbol;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style></p>
+<!--[if gte mso 10]>
+<style>
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Normal tabell";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+mso-para-margin:0cm;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:10.0pt;
+font-family:"Times New Roman","serif";}
+</style>
+<![endif]-->
+<p style="margin-bottom: 14pt;" class="MsoNormal"><span lang="EN-US" style="font-size: 14pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Senior Concept Artist</span><span lang="EN-US" style="font-size: 10pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;"><br />
+<br />
+Grin is the </span><span lang="EN-US" style="font-size: 10pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">creator of games such <em>Tom Clancy&rsquo;s Ghost Recon Advanced Warfighter 1 </em>and<em> 2</em> for PC, <em>Bionic Commando Rearmed</em> , and <em style="">Wanted: Weapons of Fate</em>, for </span><span lang="EN-US" style="font-size: 10pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">major next generation platforms <br />
+Xbox 360, Playstation 3 and PC.<o:p></o:p></span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 10pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Grin Barcelona is looking for an experienced and talented Senior Concept Artist with solid background and big passion for videogames to join the Grin&rsquo;s Art team through the creation of the next game. <br style="" />
+<!--[if !supportLineBreakNewLine]--><!--[endif]--><o:p></o:p></span></p>
+<p class="MsoNormal"><strong style=""><span lang="EN-US" style="font-size: 10pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Essential duties:<o:p></o:p></span></strong></p>
+<p style="text-indent: -18pt;" class="Prrafodelista"><!--[if !supportLists]--><span lang="EN-US" style="font-size: 10pt; line-height: 115%; font-family: Symbol;"><span style="">&middot;<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="font-size: 10pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Passion for creating and <u>playing</u> games.<o:p></o:p></span></p>
+<p style="text-indent: -18pt;" class="Prrafodelista"><!--[if !supportLists]--><span lang="EN-US" style="font-family: Symbol;"><span style="">&middot;<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="font-size: 10pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Strong background in Concept Art. </span><span lang="EN-US" style="font-size: 10pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">At least </span><span lang="EN-US" style="font-size: 10pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">3 years of </span><span lang="EN-US" style="font-size: 10pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">experience in game</span><span lang="EN-US" style="font-size: 10pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;"> industry and </span><span lang="EN-US" style="font-size: 10pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">previous </span><span lang="EN-US" style="">experience in illustrating a broad variety of styles and genres.<o:p></o:p></span></p>
+<p style="text-indent: -18pt;" class="Prrafodelista"><!--[if !supportLists]--><span lang="EN-US" style="font-size: 10pt; line-height: 115%; font-family: Symbol;"><span style="">&middot;<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="font-size: 10pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">At least one published game credited in </span><span lang="EN-US" style="font-size: 10pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Concept Art</span><span lang="EN-US" style="font-size: 10pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;"> role. <o:p></o:p></span></p>
+<p style="text-indent: -18pt;" class="Prrafodelista"><!--[if !supportLists]--><span lang="EN-US" style="font-size: 10pt; line-height: 115%; font-family: Symbol;"><span style="">&middot;<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="">Excellent digital illustration skills with a mastery of Photoshop. Outstanding grasp of the human figure and animal anatomy, composition, perspective and color theory. Sense for cinematography and visual storytelling skills. </span><span lang="EN-US" style="font-size: 10pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">(Extensive portfolio).<o:p></o:p></span></p>
+<p style="text-indent: -18pt;" class="Prrafodelista"><!--[if !supportLists]--><span lang="EN-US" style="font-size: 10pt; line-height: 115%; font-family: Symbol;"><span style="">&middot;<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="font-size: 10pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Knowledge of game development process from concept to final product release.<o:p></o:p></span></p>
+<p style="text-indent: -18pt;" class="Prrafodelista"><!--[if !supportLists]--><span lang="EN-US" style="font-family: Symbol;"><span style="">&middot;<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="">Solid interpersonal and communications skills with the ability to cooperate on a team level.<o:p></o:p></span></p>
+<p style="text-indent: -18pt;" class="Prrafodelista"><!--[if !supportLists]--><span lang="EN-US" style="font-family: Symbol;"><span style="">&middot;<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="">Minimum Education Level Required: Bachelor's Degree<o:p></o:p></span></p>
+<p style="text-indent: -18pt;" class="Prrafodelista"><!--[if !supportLists]--><span lang="EN-US" style="font-family: Symbol;"><span style="">&middot;<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="">Fluent English<o:p></o:p></span></p>
+<table cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse;" class="MsoNormalTable">
+    <tbody>
+        <tr style="">
+            <td width="750" style="padding: 3.75pt; width: 450pt;">
+            <p style="margin-bottom: 0.0001pt; line-height: normal;" class="Prrafodelista"><span lang="EN-US" style="font-size: 10pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;"><o:p>&nbsp;</o:p></span></p>
+            <p style="margin-bottom: 0.0001pt; line-height: normal;" class="MsoNormal"><strong><span lang="EN-US" style="">Job   Responsibilities:</span></strong><span lang="EN-US" style="font-size: 10pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;"><br style="" />
+            <!--[if !supportLineBreakNewLine]--><br style="" />
+            <!--[endif]--><o:p></o:p></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p style="text-indent: -18pt;" class="Prrafodelista"><!--[if !supportLists]--><span lang="EN-US" style="font-family: Symbol;"><span style="">&middot;<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="">Produce a wide range of highly creative character, creature and environment concept art to fulfill the requirements of the game while working within the constraints of engine, game design, and schedule.<o:p></o:p></span></p>
+<p style="text-indent: -18pt;" class="Prrafodelista"><!--[if !supportLists]--><span lang="EN-US" style="font-family: Symbol;"><span style="">&middot;<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="">Proactively seek feedback from the Lead Concept Artist and the Art Director in style and mood. Create detailed style guides.<o:p></o:p></span></p>
+<p style="text-indent: -18pt;" class="Prrafodelista"><!--[if !supportLists]--><span lang="EN-US" style="font-family: Symbol;"><span style="">&middot;<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="">Work with the team to ensure project goals, objectives, milestones, and deliverables are achieved. Report to the Lead Concept Artist.<o:p></o:p></span></p>
+<p style="text-indent: -18pt;" class="Prrafodelista"><!--[if !supportLists]--><span lang="EN-US" style="font-family: Symbol;"><span style="">&middot;<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span lang="EN-US" style="">Follow the schedules set by the Department Lead.<br />
+<br />
+<br />
+</span><span id="ctl00_ContentPlaceHolder1_lblJobText">
+<p style="" class="MsoNormal"><strong style=""><span lang="EN-US" style="">To apply:<o:p></o:p></span></strong></p>
+<p><span lang="EN-US" style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,&quot;sans-serif&quot;;">Please submit a resume and include demo reel/website link with your application. Use the form below or send an e-mail to <a href="mailto:art.bcn@grin.se?subject=Senior%20Concept%20Artist">art.bcn@grin.se</a> <br />
+</span></p>
+</span></p></span></p>
+      </div>
+      <div class="column_nav">
+        <span class="column_nav_cat">Contact</span>
+        <p>
+          Please send your application through the online form below, or by regular mail to
+          our physical adress. If you prefer to send your application by email click
+          <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#97;&#114;&#116;&#46;&#98;&#99;&#110;&#64;&#103;&#114;&#105;&#110;&#46;&#115;&#101;">here</a>.</p>
+      </div>
+      <br class="clearfix" />
+  </div>
+  <div class="column_holder">
+    <div class="column_sep">
+      <img src="img/jobs/jobs_apply_sep.png" alt="Apply here" /></div>
+    <div class="input_100">
+      Firstname</div>
+    <input name="ctl00$ContentPlaceHolder1$txtFName" type="text" id="ctl00_ContentPlaceHolder1_txtFName" class="input_txt" />
+    <br />
+    <div class="input_100">
+      Lastname</div>
+    <input name="ctl00$ContentPlaceHolder1$txtLName" type="text" id="ctl00_ContentPlaceHolder1_txtLName" class="input_txt" />
+    <br />
+    <div class="input_100">
+      Telephone</div>
+    <input name="ctl00$ContentPlaceHolder1$txtTele" type="text" id="ctl00_ContentPlaceHolder1_txtTele" class="input_txt" />
+    <br />
+    <div class="input_100">
+      Mobile</div>
+    <input name="ctl00$ContentPlaceHolder1$txtMobile" type="text" id="ctl00_ContentPlaceHolder1_txtMobile" class="input_txt" />
+    <br />
+    <div class="input_100">
+      E-mail</div>
+    <input name="ctl00$ContentPlaceHolder1$txtMail" type="text" id="ctl00_ContentPlaceHolder1_txtMail" class="input_txt" />
+    <br />
+    <div class="input_100">
+      Message</div>
+    <textarea name="ctl00$ContentPlaceHolder1$txtInfo" rows="15" cols="20" id="ctl00_ContentPlaceHolder1_txtInfo" class="input_txt"></textarea>
+    <br />
+    <div class="input_100">
+      File (optional)</div>
+    <input type="file" name="ctl00$ContentPlaceHolder1$upldFile" id="ctl00_ContentPlaceHolder1_upldFile" /><br />
+    <div style="margin-left: 100px; margin-top: 10px;">
+      <input type="submit" name="ctl00$ContentPlaceHolder1$btnSubmit" value="Send" id="ctl00_ContentPlaceHolder1_btnSubmit" class="submit_btn" /></div>
+    
+    
+  </div>
+
+        <br class="clearfix" />
+      </div>
+      
+<!----- right ----->
+<div id="right">
+
+
+<div id="right_outer">
+<div class="right_section">
+<img src="img/right/right_blog.png" />
+<ul>
+
+
+<li>
+<a href="blog.aspx?i=44">Cosplay Spencer at the GRIN office today</a></li>
+
+<li>
+<a href="blog.aspx?i=43">Happy New Year!</a></li>
+
+<li>
+<a href="blog.aspx?i=42">Merry Christmas</a></li>
+
+<li>
+<a href="blog.aspx?i=41">Ministry of Culture visited GRIN</a></li>
+
+<li>
+<a href="blog.aspx?i=40">GRIN Olympics 2008</a></li>
+
+</ul>
+
+<a href="blog.aspx"><img src="img/right/right_view_blog.png"/></a>
+
+</div>
+
+
+<div class="right_section">
+<img src="img/right/right_news.png" />
+<ul>
+
+
+<li>
+<a href="news.aspx?i=142">Bionic Commando on Gamers March cover </a></li>
+
+<li>
+<a href="news.aspx?i=141">Bionic Commando arrive in May</a></li>
+
+<li>
+<a href="news.aspx?i=140">Terminator Salvation on GamePro cover</a></li>
+
+<li>
+<a href="news.aspx?i=139">www up for Wanted</a></li>
+
+<li>
+<a href="news.aspx?i=138">Borås Tidning talks to Stellan Johansson</a></li>
+
+</ul>
+<a href="news.aspx"><img src="img/right/right_view_news.png"/></a>
+</div>
+
+<div class="right_section">
+<img src="img/right/right_press.png" alt="Press area" />
+<p>Join our press area to keep updated with all GRIN activities. The press area is
+open for everyone - not only members of the press.</p>
+<div style="padding-top:10px;"><a href="press.aspx"><img src="img/right/right_view_signup.png" width="67" height="7" alt="Sign up now" /></a></div>
+</div>
+
+
+
+
+</div>
+
+</div>
+<!----- right ----->
+
+      <br class="clearfix" />
+    </div>
+  </div>
+  <!----- content wrapper ----->
+  <!----- footer ----->
+  
+<div id="footer">
+
+
+<ul style="list-style-type:none;margin:0; padding:0; color:#666666;">
+<li style="display:inline; margin-right:10px;">
+<b>Phone</b> +46 (0)8-31 36 95
+</li>
+<li style="display:inline;margin-right:10px;"><b>Fax</b> +46 (0)8-31 36 75</li>
+<li style="display:inline;margin-right:5px;"><b>Address</b> Hightech Building 22</li> <li style="margin-right:5px; display:inline;">101 52 STOCKHOLM / SWEDEN</li>
+</ul>
+<p style="font-size:10px; color:#999999;">Copyright © 2007 GRIN</p>
+
+
+  <!----- footer ----->
+  </div>
+  
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCALz1L/lBgKfvNGJDgKfvMmTDgKg6NvQDgKPlMHtDAK9w4QnAoHjv/UHAvjQlaIKdkRNOH0kpNp2CjZebJILEtqxHYQ=" /></form>
+</body>
+</html>

@@ -1,0 +1,109 @@
+<HTML>
+<!--
+
+----------------------------------------
+----------------------------------------
+--- SITE BY Grin -----------------------
+----------------------------------------
+--- webmaster@grin.se ------------------
+----------------------------------------
+----------------------------------------
+
+--><HEAD>
+<TITLE>GRIN.SE</TITLE>
+<META Name="description" Content="GRIN">
+<META Name="keywords" Content="">
+<META NAME="Author" CONTENT="Hjalmar Vikström">
+<LINK REL="SHORTCUT ICON" HREF="/favicon.ico">
+<LINK REL="stylesheet" TYPE="text/css" HREF="css/style.css">
+
+<META NAME="Classification" CONTENT="">
+
+<script language="JavaScript" type="text/javascript">
+<!--
+	function mouse_over( obj, name ) {
+		document.getElementById( obj ).className = name+"_hover";
+	}
+	function mouse_out( obj, name ) {
+		document.getElementById( obj ).className = name;
+	}
+	
+	function mouse_over_obj( obj, name ) {
+		obj.className = name+"_hover";
+	}
+	function mouse_out_obj( obj, name ) {
+		obj.className = name;
+	}
+
+	function scroll( y ) {
+		var n = 0;
+		var ny = y*2000;
+		var ay = Math.abs(ny);
+		var i = 7*(ny/ay);
+		var ai = Math.abs(i);
+  		while( n <= ay ) {
+  			var c = i;
+  			var nn = (n+ai);
+  			//if( ((y > 0) && (nn > ay)) || ((y < 0) && (nn < ay)) ) {
+  			//c = nn - ay;
+  			//}
+  			top.mainframe.content.scrollBy(c,0);
+  			n=nn;
+  		}
+	}
+	
+	function scroll_office( y, arrow ) {
+		var n = 0;
+		var ny = y*1000;
+		var ay = Math.abs(ny);
+		var i = 3*(ny/ay);
+		var ai = Math.abs(i);
+  		while( n <= ay ) {
+  			var c = i;
+  			var nn = (n+ai);
+  			top.mainframe.content.scrollBy(c,0);
+  			n=nn;
+  		}
+		/*
+  		if( n > ay ) {
+  			var con = document.getElementById("con_office_1");
+  			alert(con.style.pixelLeft);
+  			con.style.pixelLeft=con.style.pixelLeft+ny;
+  		}
+  		*/
+	}
+	function launch( url, theName, w, h ) {
+		var x=100;
+		var y=100;
+		param='width='+w+',height='+h+',location=no,resizable=no,menubar=no,scrollbars=no,status=no,toolbar=no,titlebar=no,left='+x+',top='+y;
+		theWindowr=window.open( '/pop_image.php?url='+url, '_blank', param );
+		theWindow.focus();
+	}
+	function launch_team() {
+		var x=100;
+		var y=100;
+		param='width=620,height=470,location=no,resizable=no,menubar=no,scrollbars=no,status=no,toolbar=no,titlebar=no,left='+x+',top='+y;
+		theWindowr=window.open( '/pop_team.php?nr=1', '_blank', param );
+		theWindow.focus();
+	}
+	function launch_team_images() {
+		var x=100;
+		var y=100;
+		param='width=620,height=470,location=no,resizable=no,menubar=no,scrollbars=no,status=no,toolbar=no,titlebar=no,left='+x+',top='+y;
+		theWindowr=window.open( '/pop_team_images.php?nr=1', '_blank', param );
+		theWindow.focus();
+	}
+//-->
+</script></HEAD>
+<BODY class="menu" CELLPADDING="0" CELLSPACING="0" MARGINWIDH="0" MARGINHEIGHT="0">
+<span class="menu_inside">&nbsp;</span>
+<table class="menu" CELLPADDING="0" CELLSPACING="0" MARGINWIDH="0" MARGINHEIGHT="0"><tr>
+<td class="menu_left" align="left"><a href="mainframe.php?page=home&lastname=shtml" target="mainframe" onmouseover="mouse_over('img_home', 'menu_small' );" onmouseout="mouse_out('img_home', 'menu_small' );"><img id="img_home" src="images/txt_home_small.gif" class="menu_small" border="0"/></a></td>
+<td class="menu" align="middle"><a href="mainframe.php?page=profile&lastname=shtml" target="mainframe" onmouseover="mouse_over('img_profile', 'menu_large' );" onmouseout="mouse_out('img_profile', 'menu_large' );"><img id="img_profile" src="images/txt_profile_large.gif" class="menu_large" border="0"/></a></td>
+<td class="menu" align="middle"><a href="mainframe.php?page=games&lastname=shtml" target="mainframe" onmouseover="mouse_over('img_games', 'menu_small' );" onmouseout="mouse_out('img_games', 'menu_small' );"><img id="img_games" src="images/txt_games_small.gif" class="menu_small" border="0"/></a></td>
+<td class="menu" align="middle"><a href="mainframe.php?page=contact&lastname=php" target="mainframe" onmouseover="mouse_over('img_contact', 'menu_small' );" onmouseout="mouse_out('img_contact', 'menu_small' );"><img id="img_contact" src="images/txt_contact_small.gif" class="menu_small" border="0"/></a></td>
+<td class="menu" align="right"><a href="mainframe.php?page=jobs&lastname=shtml" target="mainframe" onmouseover="mouse_over('img_jobs', 'menu_small' );" onmouseout="mouse_out('img_jobs', 'menu_small' );"><img id="img_jobs" src="images/txt_jobs_small.gif" class="menu_small" border="0"/></a></td>
+</tr>
+</table>
+</BODY>
+</HTML>

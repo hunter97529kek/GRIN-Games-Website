@@ -1,0 +1,99 @@
+<HTML>
+<HEAD>
+ <TITLE>GRIN Inc - The Website</TITLE>
+ <LINK rel="stylesheet" type="text/css" href="css/grin_format.css">
+<SCRIPT language="JavaScript" type="text/javascript">
+<!--
+function loadFrames(choice)
+{
+ var headerUrl="headline_news.html";
+ var contentUrl="content_news.shtml";
+ switch(choice)
+ {
+
+  case "news":
+   headlineUrl="headline_news.html";
+   contentUrl="content_news.shtml";
+   break;
+
+  case "company":
+   headlineUrl="headline_company.html";
+   contentUrl="content_company.shtml";
+   break;
+
+  case "games":
+   headlineUrl="headline_games.html";
+   contentUrl="content_games.shtml";
+   break;
+
+  case "contact":
+   headlineUrl="headline_contact.html";
+   contentUrl="content_contact.shtml";
+  break;
+
+  case "links":
+   headlineUrl="headline_links.html";
+   contentUrl="content_links.shtml";
+   break;
+  }
+ top.headline.location=headlineUrl;
+ top.content.location=contentUrl;
+}
+
+// SwapImage script:
+
+function MM_swapImgRestore()
+{ //v2.0
+ if (document.MM_swapImgData != null)
+ for (var i=0; i<(document.MM_swapImgData.length-1); i+=2)
+ document.MM_swapImgData[i].src = document.MM_swapImgData[i+1];
+}
+function MM_preloadImages()
+{ //v2.0
+ if (document.images)
+ {
+  var imgFiles = MM_preloadImages.arguments;
+  if (document.preloadArray==null) document.preloadArray = new Array();
+  var i = document.preloadArray.length;
+  with (document) for (var j=0; j<imgFiles.length; j++) if (imgFiles[j].charAt(0)!="#")
+  {
+   preloadArray[i] = new Image;
+   preloadArray[i++].src = imgFiles[j];
+  }
+ }
+}
+
+function MM_swapImage()
+{ //v2.0
+ var i,j=0,objStr,obj,swapArray=new Array,oldArray=document.MM_swapImgData;
+ for (i=0; i < (MM_swapImage.arguments.length-2); i+=3)
+ {
+  objStr = MM_swapImage.arguments[(navigator.appName == 'Netscape')?i:i+1];
+  if ((objStr.indexOf('document.layers[')==0 && document.layers==null) ||
+  (objStr.indexOf('document.all[')   ==0 && document.all   ==null))
+  objStr = 'document'+objStr.substring(objStr.lastIndexOf('.'),objStr.length);
+  obj = eval(objStr);
+  if (obj != null)
+  {
+   swapArray[j++] = obj;
+   swapArray[j++] = (oldArray==null || oldArray[j-1]!=obj)?obj.src:oldArray[j];
+   obj.src = MM_swapImage.arguments[i+2];
+  }
+ }
+ document.MM_swapImgData = swapArray; //used for restore
+}
+-->
+</SCRIPT>
+</HEAD>
+<BODY bgcolor="#4B5F5F" text="#F1EEE7" link="#F2EACF" vlink="#F2EACF" alink="#F2EACF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" align="center">
+<TABLE width="210" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" align="center" valign="top">
+ <TR>
+  <TD width="210" valign="top"><A href="javascript:loadFrames('news');" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.news','document.news','gfx/menuoption_news2.gif','#949677699070')"><IMG name="news" border="0" src="gfx/menuoption_news.gif" width="103" height="35"></A><BR>
+   <A href="javascript:loadFrames('company');" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.company','document.company','gfx/menuoption_company2.gif','#949677724060')"><IMG name="company" border="0" src="gfx/menuoption_company.gif" width="183" height="35"></A><BR>
+   <A href="javascript:loadFrames('games');" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.games','document.games','gfx/menuoption_games2.gif','#949677790580')"><IMG name="games" border="0" src="gfx/menuoption_games.gif" width="126" height="35"></A><BR>
+   <A href="javascript:loadFrames('contact');" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.contact','document.contact','gfx/menuoption_contact2.gif','#949677750590')"><IMG name="contact" border="0" src="gfx/menuoption_contact.gif" width="193" height="35"></A><BR>
+   <A href="javascript:loadFrames('links');" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.links','document.links','gfx/menuoption_links2.gif','#949677821390')"><IMG name="links" border="0" src="gfx/menuoption_links.gif" width="106" height="35"></A><BR>
+   <!--<DIV align="center"><A href="http://www.bandits-game.com/redirect.html" target="_blank"><IMG src="gfx/tormee_banner.gif" width="100" height="136" border="0"></A></DIV>--></TD>
+ </TR>
+</TABLE>
+</HTML>

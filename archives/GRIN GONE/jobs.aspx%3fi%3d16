@@ -1,0 +1,233 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>GRIN</title>
+  <link href="styles/screen.css" rel="stylesheet" type="text/css" />
+
+  <script language="javascript" src="js/sleight.js"></script>
+
+</head>
+<body>
+  <form name="aspnetForm" method="post" action="jobs.aspx?i=16" id="aspnetForm" enctype="multipart/form-data">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MjAzNDMzMDAPFgIeCUpvYnVwZGF0ZQUbMjAlMmYwNSUyZjIwMDgrMDYlM2E1OCUzYTU5ZGQy5Ag65d25jxtMZ+yOJO5bDmlePA==" />
+
+  <div id="main_wrapper">
+  <!----- header and shadow ----->
+  <div id="header">
+    
+
+<img src="img/header/top.png" width="900" height="99" border="0" usemap="#Map" />
+<map name="Map" id="Map"><area shape="rect" coords="332,59,372,80" href="./" alt="START" />
+<area shape="rect" coords="384,59,419,81" href="news.aspx" alt="NEWS" />
+<area shape="rect" coords="434,60,472,84" href="about.aspx" alt="About" />
+<area shape="rect" coords="488,59,527,82" href="games.aspx" alt="GAMES" />
+<area shape="rect" coords="543,58,575,83" href="jobs.aspx" alt="JOBS" />
+<area shape="rect" coords="592,59,641,84" href="contact.aspx" alt="CONTACT" />
+<area shape="rect" coords="651,58,690,82" href="blog.aspx" alt="BLOG" />
+<area shape="rect" coords="700,59,740,84" href="press.aspx" alt="PRESS" />
+<area shape="rect" coords="15,9,268,92" href="Default.aspx" alt="START" />
+</map>
+
+  </div>
+  <div id="header_shadow">
+  </div>
+  <!----- header and shadow ----->
+  <!----- content wrapper ----->
+  <div id="wrapper">
+    <div id="inner_wrapper">
+      <div id="content">
+        
+  <div class="column_holder">
+    <h1>
+      <img alt="JOBS" src="/images/headers/pf_heading/dynamicimage.aspx?text=JOBS" />
+    </h1>
+    <div class="column_heading">
+      <span id="ctl00_ContentPlaceHolder1_lblTop"><p>GRIN is constantly looking for talented people. All available positions are listed below. Apply via the form or by e-mail.  If you are interested in a position that isn&rsquo;t listed, please send your CV via e-mail to jobs@grin.se.</p></span></div>
+    <div class="column_sep">
+      <img src="img/jobs/jobs_open_sep.png" alt="Open positions" /></div>
+    
+    
+      <div class="column_content">
+        <h1>
+          <img alt="Tuesday 29 April 2008" src="/images/headers/pf_small/dynamicimage.aspx?text=Tuesday 29 April 2008" />
+        </h1>
+        <h2>
+          <img alt="IT technician/QA Barcelona" src="/images/headers/pf_heading/dynamicimage.aspx?text=IT technician/QA Barcelona" />
+        </h2>
+        <p>
+          <span id="ctl00_ContentPlaceHolder1_lblJobText"><p class="MsoNormal">Work as part time IT-support, and part time as part of the internal QA team, helping with the testing process. <br />
+<br />
+Although the above will constitute the majority of the job this position is considered &quot;junior&quot; and applicants should be prepared to help out with various tasks around the office as the need arises.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><strong style=""><span lang="EN-US" style="">Responsibilities<o:p></o:p></span></strong></p>
+<ul>
+    <li><!--[if !supportLists]--><span lang="EN-US" style="">Pinpoint errors in PC computers, replacing the broken parts. <o:p></o:p></span></li>
+    <li><!--[if !supportLists]--><span lang="EN-US" style="">Client support, Windows XP and Vista. <o:p></o:p></span></li>
+    <li><!--[if !supportLists]--><span lang="EN-US" style="">Maintain the bug database. <o:p></o:p></span></li>
+    <li><!--[if !supportLists]--><span lang="EN-US" style="">Data management. <o:p></o:p></span></li>
+    <li><!--[if !supportLists]--><span lang="EN-US" style="">Assist with the testing process of all our projects (bug hunting).</span></li>
+    <li><span lang="EN-US" style="">Assist with various tasks around the office. <o:p></o:p></span></li>
+</ul>
+<p class="MsoNormal"><strong style=""><span lang="EN-US" style="">Requirements<o:p></o:p></span></strong></p>
+<ul>
+    <li><!--[if !supportLists]--><span lang="EN-US" style="font-family: Symbol;"><span style=""><span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">  </span></span></span><!--[endif]--><span lang="EN-US" style="">Very service minded and friendly. <br />
+    </span></li>
+    <li><!--[if !supportLists]--><span lang="EN-US" style="font-family: Symbol;"><span style=""><span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;"> </span></span></span><!--[endif]--><span lang="EN-US" style="">Able to repair computers; finding out which part is broken and replacing it. <o:p></o:p></span></li>
+    <li><!--[if !supportLists]--><span lang="EN-US" style="">Able to help users with common computer related issues (knowledge of Maya, 3DS max, Photoshop etc is a plus). <o:p></o:p></span></li>
+    <li><!--[if !supportLists]--><span lang="EN-US" style="">Be methodical, thorough and organized. <o:p></o:p></span></li>
+    <li><!--[if !supportLists]--><span lang="EN-US" style="">Be a fan of video games and enjoy playing them. Having played many different types of games and on various platforms is a plus. <o:p></o:p></span></li>
+    <li><!--[if !supportLists]--><span lang="EN-US" style="">Have good analytical skills and an eye for detail.<o:p></o:p></span></li>
+    <li><!--[if !supportLists]--><span lang="EN-US" style="">Excellent spoken and written English. <o:p></o:p></span></li>
+</ul>
+<p class="MsoNormal"><span lang="EN-US" style="">Spanish and/or Catalan knowledge is considered a very big plus.</span></p>
+<p>&nbsp;</p>
+<p class="MsoNormal"><span lang="EN-US" style="">Previous testing experience is a plus. <o:p></o:p></span></p>
+<p class="MsoNormal"><span lang="EN-US" style="">Working knowledge of Linux or other non Windows platforms is a plus. <br />
+Experience with web servers, versioning systems, scripting (VBA, Perl or other), general networking or Clavister products is also a plus. <o:p></o:p></span></p></span></p>
+      </div>
+      <div class="column_nav">
+        <span class="column_nav_cat">Contact</span>
+        <p>
+          Please send your application through the online form below, or by regular mail to
+          our physical adress. If you prefer to send your application by email click
+          <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#116;&#106;&#111;&#98;&#115;&#64;&#103;&#114;&#105;&#110;&#46;&#115;&#101;">here</a>.</p>
+      </div>
+      <br class="clearfix" />
+  </div>
+  <div class="column_holder">
+    <div class="column_sep">
+      <img src="img/jobs/jobs_apply_sep.png" alt="Apply here" /></div>
+    <div class="input_100">
+      Firstname</div>
+    <input name="ctl00$ContentPlaceHolder1$txtFName" type="text" id="ctl00_ContentPlaceHolder1_txtFName" class="input_txt" />
+    <br />
+    <div class="input_100">
+      Lastname</div>
+    <input name="ctl00$ContentPlaceHolder1$txtLName" type="text" id="ctl00_ContentPlaceHolder1_txtLName" class="input_txt" />
+    <br />
+    <div class="input_100">
+      Telephone</div>
+    <input name="ctl00$ContentPlaceHolder1$txtTele" type="text" id="ctl00_ContentPlaceHolder1_txtTele" class="input_txt" />
+    <br />
+    <div class="input_100">
+      Mobile</div>
+    <input name="ctl00$ContentPlaceHolder1$txtMobile" type="text" id="ctl00_ContentPlaceHolder1_txtMobile" class="input_txt" />
+    <br />
+    <div class="input_100">
+      E-mail</div>
+    <input name="ctl00$ContentPlaceHolder1$txtMail" type="text" id="ctl00_ContentPlaceHolder1_txtMail" class="input_txt" />
+    <br />
+    <div class="input_100">
+      Message</div>
+    <textarea name="ctl00$ContentPlaceHolder1$txtInfo" rows="15" cols="20" id="ctl00_ContentPlaceHolder1_txtInfo" class="input_txt"></textarea>
+    <br />
+    <div class="input_100">
+      File (optional)</div>
+    <input type="file" name="ctl00$ContentPlaceHolder1$upldFile" id="ctl00_ContentPlaceHolder1_upldFile" /><br />
+    <div style="margin-left: 100px; margin-top: 10px;">
+      <input type="submit" name="ctl00$ContentPlaceHolder1$btnSubmit" value="Send" id="ctl00_ContentPlaceHolder1_btnSubmit" class="submit_btn" /></div>
+    
+    
+  </div>
+
+        <br class="clearfix" />
+      </div>
+      
+<!----- right ----->
+<div id="right">
+
+
+<div id="right_outer">
+<div class="right_section">
+<img src="img/right/right_blog.png" />
+<ul>
+
+
+<li>
+<a href="blog.aspx?i=29">Bionic Commando Rearmed has multiplayer too!</a></li>
+
+<li>
+<a href="blog.aspx?i=28">BCR approaching completion</a></li>
+
+<li>
+<a href="blog.aspx?i=27">Grin @ Game Developers Conference 2008</a></li>
+
+<li>
+<a href="blog.aspx?i=26">We’re off to GDC</a></li>
+
+<li>
+<a href="blog.aspx?i=25">Heading into Alpha</a></li>
+
+</ul>
+
+<a href="blog.aspx"><img src="img/right/right_view_blog.png"/></a>
+
+</div>
+
+
+<div class="right_section">
+<img src="img/right/right_news.png" />
+<ul>
+
+
+<li>
+<a href="news.aspx?i=82">GRIN Gaming Edition mouse pad</a></li>
+
+<li>
+<a href="news.aspx?i=81">Bionic Commando on the cover</a></li>
+
+<li>
+<a href="news.aspx?i=80">CVG talks to Simon Viklund</a></li>
+
+<li>
+<a href="news.aspx?i=79">Bionic Commando Rearmed Multiplayer announced</a></li>
+
+<li>
+<a href="news.aspx?i=78">CVG, Kotaku and FZ on Bionic Commando Rearmed</a></li>
+
+</ul>
+<a href="news.aspx"><img src="img/right/right_view_news.png"/></a>
+</div>
+
+<div class="right_section">
+<img src="img/right/right_press.png" alt="Press area" />
+<p>Join our press area to keep updated with all GRIN activities. The press area is
+open for everyone - not only members of the press.</p>
+<div style="padding-top:10px;"><a href="press.aspx"><img src="img/right/right_view_signup.png" width="67" height="7" alt="Sign up now" /></a></div>
+</div>
+
+
+
+
+</div>
+
+</div>
+<!----- right ----->
+
+      <br class="clearfix" />
+    </div>
+  </div>
+  <!----- content wrapper ----->
+  <!----- footer ----->
+  
+<div id="footer">
+
+
+<ul style="list-style-type:none;margin:0; padding:0; color:#666666;">
+<li style="display:inline; margin-right:10px;">
+<b>Phone</b> +46 (0)8-31 36 95
+</li>
+<li style="display:inline;margin-right:10px;"><b>Fax</b> +46 (0)8-31 36 75</li>
+<li style="display:inline;margin-right:5px;"><b>Address</b> Hightech Building 22</li> <li style="margin-right:5px; display:inline;">101 52 STOCKHOLM / SWEDEN</li>
+</ul>
+<p style="font-size:10px; color:#999999;">Copyright © 2007 GRIN</p>
+
+
+  <!----- footer ----->
+  </div>
+  
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCALH2vaNDAKfvNGJDgKfvMmTDgKg6NvQDgKPlMHtDAK9w4QnAoHjv/UHAvjQlaIKoq59BVL29QTMeFkJNyHK95ZXquE=" /></form>
+</body>
+</html>

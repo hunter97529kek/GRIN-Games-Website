@@ -1,0 +1,229 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>GRIN</title>
+  <link href="styles/screen.css" rel="stylesheet" type="text/css" />
+
+  <script language="javascript" src="js/sleight.js"></script>
+
+</head>
+<body>
+  <form name="aspnetForm" method="post" action="jobs.aspx?i=27" id="aspnetForm" enctype="multipart/form-data">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MjAzNDMzMDAPFgIeCUpvYnVwZGF0ZQUbMTklMmYwMiUyZjIwMDkrMTYlM2ExMCUzYTM3ZGQd6H1v6f7u0L9S6OcKUniF9JGXUQ==" />
+
+  <div id="main_wrapper">
+  <!----- header and shadow ----->
+  <div id="header">
+    
+
+<img src="img/header/top.png" width="900" height="99" border="0" usemap="#Map" />
+<map name="Map" id="Map"><area shape="rect" coords="332,59,372,80" href="./" alt="START" />
+<area shape="rect" coords="384,59,419,81" href="news.aspx" alt="NEWS" />
+<area shape="rect" coords="434,60,472,84" href="about.aspx" alt="About" />
+<area shape="rect" coords="488,59,527,82" href="games.aspx" alt="GAMES" />
+<area shape="rect" coords="543,58,575,83" href="jobs.aspx" alt="JOBS" />
+<area shape="rect" coords="592,59,641,84" href="contact.aspx" alt="CONTACT" />
+<area shape="rect" coords="651,58,690,82" href="blog.aspx" alt="BLOG" />
+<area shape="rect" coords="700,59,740,84" href="press.aspx" alt="PRESS" />
+<area shape="rect" coords="15,9,268,92" href="Default.aspx" alt="START" />
+</map>
+
+  </div>
+  <div id="header_shadow">
+  </div>
+  <!----- header and shadow ----->
+  <!----- content wrapper ----->
+  <div id="wrapper">
+    <div id="inner_wrapper">
+      <div id="content">
+        
+  <div class="column_holder">
+    <h1>
+      <img alt="JOBS" src="/images/headers/pf_heading/dynamicimage.aspx?text=JOBS" />
+    </h1>
+    <div class="column_heading">
+      <span id="ctl00_ContentPlaceHolder1_lblTop"><p>GRIN is constantly looking for talented people. All available positions are listed below. Apply via the form or by e-mail.  If you are interested in a position that isn&rsquo;t listed, please send your CV via e-mail to jobs@grin.se.</p></span></div>
+    <div class="column_sep">
+      <img src="img/jobs/jobs_open_sep.png" alt="Open positions" /></div>
+    
+    
+      <div class="column_content">
+        <h1>
+          <img alt="Thursday 11 December 2008" src="/images/headers/pf_small/dynamicimage.aspx?text=Thursday 11 December 2008" />
+        </h1>
+        <h2>
+          <img alt="Lead Character Artist - Barcelona" src="/images/headers/pf_heading/dynamicimage.aspx?text=Lead Character Artist - Barcelona" />
+        </h2>
+        <p>
+          <span id="ctl00_ContentPlaceHolder1_lblJobText"><p>GRIN is the creator of games such Tom Clancy&rsquo;s Ghost Recon Advanced Warfighter 1 and 2 for PC, Bionic Commando Rearmed, Wanted: Weapons of Fate and Terminator Salvation, for major next generation platforms Xbox 360, Playstation 3 and PC.<br />
+<br />
+GRIN Barcelona is looking for an experienced and talented Senior Character Artist with solid background and big passion for videogames to join the Grin&rsquo;s Art team through the creation of the next game. Previous experience as a Lead Character Artist is required.<br />
+<br />
+<strong>Essential duties</strong></p>
+<ul>
+    <li>Passion for creating and playing games.</li>
+    <li>Strong background in Character modeling and texturing. At least 3 years of experience in game industry</li>
+    <li>At least one published game credited in Character Artist&nbsp; role.</li>
+    <li>Excellent digital illustration skills with a mastery of Photoshop and knowledge about high polygon models, low poly, normal map (zbrush, mudbox, max..). Outstanding grasp of the human figure and animal anatomy, composition, perspective and color theory. (Extensive portfolio).</li>
+    <li>Knowledge of game development process from concept to final product release.</li>
+    <li>Solid interpersonal and communications skills with the ability to cooperate on a team level.</li>
+    <li>Minimum Education Level Required: Bachelor's Degree</li>
+    <li>Fluent English</li>
+</ul>
+<p><br />
+<strong>Job Responsibilities</strong></p>
+<ul>
+    <li>Produce a wide range of highly creative characters and creatures to fulfill the requirements of the game while working within the constraints of engine, game design, and schedule.</li>
+    <li>Proactively seek feedback from the Art Director in style and mood.</li>
+    <li>Work with the team to ensure project goals, objectives, milestones, and deliverables are achieved. Report to the Art Manager.Follow the schedules set by the Production Department.</li>
+</ul>
+<p><br />
+<strong>To apply</strong><br />
+Please submit a resume and include demo reel/website link with your application. Use the form below or send an e-mail to <a href="mailto:art.bcn@grin.se ?subject=Lead%20Character%20Artist">art.bcn@grin.se </a></p></span></p>
+      </div>
+      <div class="column_nav">
+        <span class="column_nav_cat">Contact</span>
+        <p>
+          Please send your application through the online form below, or by regular mail to
+          our physical adress. If you prefer to send your application by email click
+          <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#97;&#114;&#116;&#46;&#98;&#99;&#110;&#64;&#103;&#114;&#105;&#110;&#46;&#115;&#101;">here</a>.</p>
+      </div>
+      <br class="clearfix" />
+  </div>
+  <div class="column_holder">
+    <div class="column_sep">
+      <img src="img/jobs/jobs_apply_sep.png" alt="Apply here" /></div>
+    <div class="input_100">
+      Firstname</div>
+    <input name="ctl00$ContentPlaceHolder1$txtFName" type="text" id="ctl00_ContentPlaceHolder1_txtFName" class="input_txt" />
+    <br />
+    <div class="input_100">
+      Lastname</div>
+    <input name="ctl00$ContentPlaceHolder1$txtLName" type="text" id="ctl00_ContentPlaceHolder1_txtLName" class="input_txt" />
+    <br />
+    <div class="input_100">
+      Telephone</div>
+    <input name="ctl00$ContentPlaceHolder1$txtTele" type="text" id="ctl00_ContentPlaceHolder1_txtTele" class="input_txt" />
+    <br />
+    <div class="input_100">
+      Mobile</div>
+    <input name="ctl00$ContentPlaceHolder1$txtMobile" type="text" id="ctl00_ContentPlaceHolder1_txtMobile" class="input_txt" />
+    <br />
+    <div class="input_100">
+      E-mail</div>
+    <input name="ctl00$ContentPlaceHolder1$txtMail" type="text" id="ctl00_ContentPlaceHolder1_txtMail" class="input_txt" />
+    <br />
+    <div class="input_100">
+      Message</div>
+    <textarea name="ctl00$ContentPlaceHolder1$txtInfo" rows="15" cols="20" id="ctl00_ContentPlaceHolder1_txtInfo" class="input_txt"></textarea>
+    <br />
+    <div class="input_100">
+      File (optional)</div>
+    <input type="file" name="ctl00$ContentPlaceHolder1$upldFile" id="ctl00_ContentPlaceHolder1_upldFile" /><br />
+    <div style="margin-left: 100px; margin-top: 10px;">
+      <input type="submit" name="ctl00$ContentPlaceHolder1$btnSubmit" value="Send" id="ctl00_ContentPlaceHolder1_btnSubmit" class="submit_btn" /></div>
+    
+    
+  </div>
+
+        <br class="clearfix" />
+      </div>
+      
+<!----- right ----->
+<div id="right">
+
+
+<div id="right_outer">
+<div class="right_section">
+<img src="img/right/right_blog.png" />
+<ul>
+
+
+<li>
+<a href="blog.aspx?i=44">Cosplay Spencer at the GRIN office today</a></li>
+
+<li>
+<a href="blog.aspx?i=43">Happy New Year!</a></li>
+
+<li>
+<a href="blog.aspx?i=42">Merry Christmas</a></li>
+
+<li>
+<a href="blog.aspx?i=41">Ministry of Culture visited GRIN</a></li>
+
+<li>
+<a href="blog.aspx?i=40">GRIN Olympics 2008</a></li>
+
+</ul>
+
+<a href="blog.aspx"><img src="img/right/right_view_blog.png"/></a>
+
+</div>
+
+
+<div class="right_section">
+<img src="img/right/right_news.png" />
+<ul>
+
+
+<li>
+<a href="news.aspx?i=142">Bionic Commando on Gamers March cover </a></li>
+
+<li>
+<a href="news.aspx?i=141">Bionic Commando arrive in May</a></li>
+
+<li>
+<a href="news.aspx?i=140">Terminator Salvation on GamePro cover</a></li>
+
+<li>
+<a href="news.aspx?i=139">www up for Wanted</a></li>
+
+<li>
+<a href="news.aspx?i=138">Borås Tidning talks to Stellan Johansson</a></li>
+
+</ul>
+<a href="news.aspx"><img src="img/right/right_view_news.png"/></a>
+</div>
+
+<div class="right_section">
+<img src="img/right/right_press.png" alt="Press area" />
+<p>Join our press area to keep updated with all GRIN activities. The press area is
+open for everyone - not only members of the press.</p>
+<div style="padding-top:10px;"><a href="press.aspx"><img src="img/right/right_view_signup.png" width="67" height="7" alt="Sign up now" /></a></div>
+</div>
+
+
+
+
+</div>
+
+</div>
+<!----- right ----->
+
+      <br class="clearfix" />
+    </div>
+  </div>
+  <!----- content wrapper ----->
+  <!----- footer ----->
+  
+<div id="footer">
+
+
+<ul style="list-style-type:none;margin:0; padding:0; color:#666666;">
+<li style="display:inline; margin-right:10px;">
+<b>Phone</b> +46 (0)8-31 36 95
+</li>
+<li style="display:inline;margin-right:10px;"><b>Fax</b> +46 (0)8-31 36 75</li>
+<li style="display:inline;margin-right:5px;"><b>Address</b> Hightech Building 22</li> <li style="margin-right:5px; display:inline;">101 52 STOCKHOLM / SWEDEN</li>
+</ul>
+<p style="font-size:10px; color:#999999;">Copyright © 2007 GRIN</p>
+
+
+  <!----- footer ----->
+  </div>
+  
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCALEsP/ABwKfvNGJDgKfvMmTDgKg6NvQDgKPlMHtDAK9w4QnAoHjv/UHAvjQlaIKSl0rFRHfaMJmunbo4EnHvyafoMw=" /></form>
+</body>
+</html>
