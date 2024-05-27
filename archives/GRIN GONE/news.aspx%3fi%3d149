@@ -1,0 +1,441 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>GRIN</title>
+  <link href="styles/screen.css" rel="stylesheet" type="text/css" />
+
+  <script language="javascript" src="js/sleight.js"></script>
+
+</head>
+<body>
+  <form name="aspnetForm" method="post" action="news.aspx?i=149" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIxMTg2MDc4MjNkZPAaK8ifoFtRqHGf3r16kuLo1EIB" />
+
+  <div id="main_wrapper">
+  <!----- header and shadow ----->
+  <div id="header">
+    
+
+<img src="img/header/top.png" width="900" height="99" border="0" usemap="#Map" />
+<map name="Map" id="Map"><area shape="rect" coords="332,59,372,80" href="./" alt="START" />
+<area shape="rect" coords="384,59,419,81" href="news.aspx" alt="NEWS" />
+<area shape="rect" coords="434,60,472,84" href="about.aspx" alt="About" />
+<area shape="rect" coords="488,59,527,82" href="games.aspx" alt="GAMES" />
+<area shape="rect" coords="543,58,575,83" href="jobs.aspx" alt="JOBS" />
+<area shape="rect" coords="592,59,641,84" href="contact.aspx" alt="CONTACT" />
+<area shape="rect" coords="651,58,690,82" href="blog.aspx" alt="BLOG" />
+<area shape="rect" coords="700,59,740,84" href="press.aspx" alt="PRESS" />
+<area shape="rect" coords="15,9,268,92" href="Default.aspx" alt="START" />
+</map>
+
+  </div>
+  <div id="header_shadow">
+  </div>
+  <!----- header and shadow ----->
+  <!----- content wrapper ----->
+  <div id="wrapper">
+    <div id="inner_wrapper">
+      <div id="content">
+        
+ <div class="news_rss"><a href="rss/news.ashx"><img src="img/main/rss.png" alt="RSS feed" /></a></div>
+  
+  
+    <div class="column_holder">
+      <div class="column_nav">
+        <span class="column_nav_cat">Most read</span><span class="column_nav_showall">(<a
+          href="news.aspx?arc=1&arcID=1">show all)</a></span>
+        <ul>
+          
+              <li><a href="news.aspx?i=88">
+                Wanted - Developed by GRIN
+              </a></li>
+            
+              <li><a href="news.aspx?i=112">
+                Terminator Salvation announced
+              </a></li>
+            
+              <li><a href="news.aspx?i=82">
+                GRIN Gaming Edition mouse pad
+              </a></li>
+            
+              <li><a href="news.aspx?i=41">
+                GRIN on Swedish TV4 - How games are created
+              </a></li>
+            
+              <li><a href="news.aspx?i=92">
+                Bionic Commando Rearmed - buy it today!
+              </a></li>
+            
+        </ul>
+      </div>
+      <!----- item ----->
+      <div class="column_item">
+        <div class="blog_date">
+          <img alt="Tuesday 31 March 2009" src="/images/headers/pf_small/dynamicimage.aspx?text=Tuesday 31 March 2009" />
+        </div>
+        <div class="blog_headline">
+          <img alt="Wanted number one in online rentals" src="/images/headers/pf_heading/dynamicimage.aspx?text=Wanted number one in online rentals" />
+        </div>
+        <div class="blog_text">
+          <p>
+            <span id="ctl00_ContentPlaceHolder1_txtText"><div style="margin: 0cm 0cm 6pt"><span style="color: black; font-size: 10pt">The GameFly Weekly Top 10 is the leading source of online video game rental data and the ONLY Top 10 list that features what gamers actually want to play. The GameFly Top 10 List reflects gamers' choice from more than 6,000 titles for the Wii, PlayStation 2, Xbox, Xbox 360, GameCube, Game Boy Advance, Nintendo DS and PSP consoles.<br />
+<strong><br />
+Most Popular Games Cross-Platform:<br />
+<br />
+</strong>1.&nbsp;&nbsp; Wanted: Weapons of Fate | PS3, Xbox 360 | Shooter | WB Games&nbsp; <br />
+2.&nbsp;&nbsp; Resident Evil 5 | PS3, Xbox 360 | Action Adventure | Capcom<br />
+3.&nbsp;&nbsp; Chronicles of Riddick: Assault on Dark Athena | PS3, Xbox 360 | Shooter | Atari<br />
+4.&nbsp;&nbsp; Godfather 2 | PS3, Xbox 360 | Action Adventure | Electronic Arts<br />
+5.&nbsp;&nbsp; Halo Wars | Xbox 360 | Strategy/Sim | Microsoft<br />
+6.&nbsp;&nbsp; Wheelman | PS3, Xbox 360 | Racing | Ubisoft<br />
+7.&nbsp;&nbsp; Guitar Hero: Metallica | PS3, Xbox 360, Wii, PS2 | Arcade/Puzzle | Activision&nbsp;&nbsp; <br />
+8.&nbsp;&nbsp; Killzone 2 | PS3 | Shooter | Sony Computer Entertainment&nbsp;&nbsp; <br />
+9.&nbsp;&nbsp; H.A.W.X. | PS3, Xbox 360, Wii | Action Adventure | Ubisoft&nbsp;&nbsp; <br />
+10. Street Fighter IV | PS3, Xbox 360 | Fighting | Capcom<br />
+<br />
+<strong>Xbox 360 Most Popular Games:</strong><br />
+<br />
+1.&nbsp;&nbsp; Wanted: Weapons of Fate | Shooter | WB Games<br />
+2.&nbsp;&nbsp; Resident Evil 5 | Action Adventure | Capcom<br />
+3.&nbsp;&nbsp; Chronicles of Riddick: Assault on Dark Athena | Shooter | Atari<br />
+4.&nbsp;&nbsp; Godfather 2 | Action Adventure | Electronic Arts<br />
+5.&nbsp;&nbsp; Halo Wars | Strategy/Sim | Microsoft<br />
+6.&nbsp;&nbsp; Wheelman | Racing | Ubisoft<br />
+7.&nbsp;&nbsp; Guitar Hero: Metallica | Arcade/Puzzle | Activision<br />
+8.&nbsp;&nbsp; H.A.W.X. | Action Adventure | Ubisoft<br />
+9.&nbsp;&nbsp; Street Fighter IV | Fighting | Capcom<br />
+10. WWE: Legends of Wrestlemania | Fighting | THQ<br />
+<br />
+<strong>PlayStation 3 Most Popular Games:</strong><br />
+<br />
+1.&nbsp;&nbsp; Godfather 2 | Action Adventure | Electronic Arts<br />
+2.&nbsp;&nbsp; Wanted: Weapons of Fate | Shooter | WB Games<br />
+3.&nbsp;&nbsp; Resident Evil 5 | Action Adventure | Capcom<br />
+4.&nbsp;&nbsp; Killzone 2 | Shooter | Sony Computer Entertainment<br />
+5.&nbsp;&nbsp; Chronicles of Riddick: Assault on Dark Athena | Shooter | Atari<br />
+6.&nbsp;&nbsp; Wheelman | Racing | Ubisoft<br />
+7.&nbsp;&nbsp; God of War III | Action Adventure | Sony Computer Entertainment<br />
+8.&nbsp;&nbsp; MLB '09: The Show | Sports | Sony Computer Entertainment<br />
+9.&nbsp;&nbsp; H.A.W.X. | Action Adventure | Ubisoft<br />
+10. Street Fighter IV | Fighting | Capcom<br />
+<br />
+<strong>Nintendo Wii Most Popular Games:</strong><br />
+<br />
+1.&nbsp;&nbsp; MadWorld | Action Adventure | Sega<br />
+2.&nbsp;&nbsp; Gold's Gym Cardio Workout | Strategy/Sim | Ubisoft<br />
+3.&nbsp;&nbsp; Punch-Out!! | Fighting | Nintendo<br />
+4.&nbsp;&nbsp; Mario Power Tennis | Sports | Nintendo<br />
+5.&nbsp;&nbsp; Guitar Hero: Metallica | Arcade/Puzzle | Activision<br />
+6.&nbsp;&nbsp; House of the Dead: Overkill | Shooter | Sega<br />
+7.&nbsp;&nbsp; Mario Kart Wii | Racing | Nintendo<br />
+8.&nbsp;&nbsp; Super Mario Galaxy | Action Adventure | Nintendo<br />
+9.&nbsp;&nbsp; Final Fantasy Crystal Chronicles: Echoes of Time | RPG | Square Enix<br />
+10. Mario Party 8 | Arcade/Puzzle | Nintendo<br />
+<br />
+<strong>Nintendo DS Most Popular Games:</strong><br />
+<br />
+1.&nbsp;&nbsp; Pokemon Platinum | Strategy/Sim | Nintendo<br />
+2.&nbsp;&nbsp; Grand Theft Auto: Chinatown Wars | Action Adventure | Take Two<br />
+3.&nbsp;&nbsp; Professor Layton &amp; the Curious Village | Arcade/Puzzle | Nintendo<br />
+4.&nbsp;&nbsp; Gardening Mama | Strategy/Sim | Majesco<br />
+5.&nbsp;&nbsp; Henry Hatsworth &amp; the Puzzling Adventure | Arcade/Puzzle | Electronic Arts<br />
+6.&nbsp;&nbsp; Rhythm Heaven | Arcade/Puzzle | Nintendo<br />
+7.&nbsp;&nbsp; Suikoden Tierkreis | RPG | Konami<br />
+8.&nbsp;&nbsp; Final Fantasy Crystal Chronicles: Echoes of Time | RPG | Square Enix<br />
+9.&nbsp;&nbsp; Monsters vs. Aliens | Kids/Family | Activision<br />
+10.&nbsp; New Super Mario Bros. | Action Adventure | Nintendo<br />
+<br />
+<br />
+<strong>Most Popular &quot;E&quot; Rated Games - Cross-Platform:</strong><br />
+&nbsp;<br />
+1.&nbsp;&nbsp; Gold's Gym Cardio Workout | Wii | Strategy/Sim | Ubisoft&nbsp;&nbsp; &nbsp; <br />
+2.&nbsp;&nbsp; Punch-Out!! | Wii | Fighting | Nintendo<br />
+3.&nbsp;&nbsp; Major League Baseball | 2K9 PS3, Xbox 360,Wii, PSP Games, PS2 | Sports | <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Take Two&nbsp;&nbsp; <br />
+4.&nbsp;&nbsp; MLB '09: The Show | PS3, PSP Games,&nbsp; PS2 Sports | Sony Computer Ent. <br />
+5.&nbsp;&nbsp; Pokemon Platinum | DS | Strategy/Sim | Nintendo&nbsp;&nbsp; <br />
+6.&nbsp;&nbsp; Mario Power Tennis | Wii, GC | Sports | Nintendo&nbsp;&nbsp; <br />
+7.&nbsp;&nbsp; Little Big Planet | PS3 | Action Adventure | Sony Computer Entertainment<br />
+8.&nbsp;&nbsp; Trivial Pursuit | PS3, Xbox 360, Wii, PS2 | Kids/Family | Electronic Arts&nbsp;&nbsp; <br />
+9.&nbsp;&nbsp; Sonic's Ultimate Genesis Collection | PS3, Xbox 360 | Arcade/Puzzle | Sega&nbsp;&nbsp; <br />
+10.&nbsp; NBA 2K9 | PS3, Xbox 360, PS2 | Sports | Take Two<br />
+<br />
+<strong>Xbox 360 - Most Popular &quot;E&quot; Rated Games:</strong><br />
+<br />
+1.&nbsp;&nbsp;&nbsp; Major League Baseball 2K9 | Sports | Take Two<br />
+2.&nbsp;&nbsp;&nbsp; Trivial Pursuit | Kids/Family | Electronic Arts<br />
+3.&nbsp;&nbsp;&nbsp; Sonic's Ultimate Genesis Collection | Arcade/Puzzle | Sega<br />
+4.&nbsp;&nbsp;&nbsp; NBA 2K9 | Sports | Take Two<br />
+5.&nbsp;&nbsp;&nbsp; Monsters vs. Aliens | Kids/Family | Activision<br />
+6.&nbsp;&nbsp;&nbsp; Fuel | Racing | WB Games<br />
+7.&nbsp;&nbsp;&nbsp; Banjo-Kazooie: Nuts &amp; Bolts | Action Adventure | Microsoft<br />
+8.&nbsp;&nbsp;&nbsp; NHL 09 | Sports | Electronic Arts<br />
+9.&nbsp;&nbsp;&nbsp; NPPL Championship Paintball 2009 | Shooter | Activision<br />
+10.&nbsp; NCAA Basketball 09 | Sports | Electronic Arts<br />
+<br />
+<strong>PlayStation 3 - Most Popular &quot;E&quot; Rated Games:<br />
+</strong><br />
+1.&nbsp;&nbsp; MLB '09: The ShowSportsSony Computer Entertainment<br />
+2.&nbsp;&nbsp; Little Big Planet | Action Adventure | Sony Computer Entertainment<br />
+3.&nbsp;&nbsp; Trivial Pursuit | Kids/Family | Electronic Arts<br />
+4.&nbsp;&nbsp; Sonic's Ultimate Genesis Collection | Arcade/Puzzle | Sega<br />
+5.&nbsp;&nbsp; Monsters vs. Aliens | Kids/Family | Activision<br />
+6.&nbsp;&nbsp; Tiger Woods PGA TOUR 10 | Sports | Electronic Arts<br />
+7.&nbsp;&nbsp; Ratchet &amp; Clank Future: Tools of Destruction | Action Adventure | Sony&nbsp; <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Computer Entertainment<br />
+8.&nbsp;&nbsp; Fuel | Racing | WB Games<br />
+9.&nbsp;&nbsp; NBA 2K9 | Sports | Take Two<br />
+10. FIFA Soccer 09 | Sports | Electronic Arts<strong><br />
+</strong><br />
+<strong>Most Popular Sports Games Cross-Platform:</strong><br />
+<br />
+1.&nbsp;&nbsp; Skate 2 | PS3, Xbox 360 | Electronic Arts<br />
+2.&nbsp;&nbsp; Major League Baseball 2K9 | PS3, Xbox 360, Wii, PSP Games, PS2 | Take Two<br />
+3.&nbsp;&nbsp; MLB '09: The Show | PS3, PSP Games, PS2 | Sony Computer Entertainment<br />
+4.&nbsp;&nbsp; Mario Power Tennis | Wii, GC | Nintendo<br />
+5.&nbsp;&nbsp; Madden NFL 10 | PS3, Xbox 360, Wii, PSP Games, PS2 | Electronic Arts<br />
+6.&nbsp;&nbsp; NBA 2K9 | PS3, Xbox 360, PS2 | Take Two<br />
+7.&nbsp;&nbsp; NHL 09 | PS3, Xbox 360, PS2 | Electronic Arts<br />
+8.&nbsp;&nbsp; NCAA Basketball 09 | PS3, Xbox 360, PS2 | Electronic Arts<br />
+9.&nbsp;&nbsp; Tiger Woods PGA Tour 09 | PS3, Xbox 360, PSP Games, PS2 | Electronic Arts<br />
+10.&nbsp; NBA Live 09 | PS3, Xbox 360, PSP Games, PS2 | Electronic Arts<br />
+<br />
+<strong>Xbox 360 Most Popular Sports Games:<br />
+<br />
+</strong>1.&nbsp; Skate 2 | Electronic Arts<br />
+2.&nbsp; Major League Baseball 2K9 | Take Two<br />
+3.&nbsp; Madden NFL 10 | Electronic Arts<br />
+4.&nbsp; NBA 2K9 | Take Two<br />
+5.&nbsp; NHL 09 | Electronic Arts<br />
+6.&nbsp; NCAA Basketball 09 | Electronic Arts<br />
+7.&nbsp; Tiger Woods PGA Tour 09 | Electronic Arts<br />
+8.&nbsp; NBA Live 09 | Electronic Arts<br />
+9.&nbsp; Tiger Woods PGA Tour 10 | Electronic Arts<br />
+10. Stoked | Destineer<br />
+<br />
+<strong>PlayStation 3 Most Popular Sports Games:<br />
+<br />
+</strong>1.&nbsp;&nbsp; MLB '09: The Show | Sony Computer Entertainment <br />
+2.&nbsp;&nbsp; Skate 2 | Electronic Arts<br />
+3.&nbsp;&nbsp; Madden NFL 10 | Electronic Arts<br />
+4.&nbsp;&nbsp; Tiger Woods PGA Tour 10 | Electronic Arts<br />
+5.&nbsp;&nbsp; NBA 2K9 | Take Two<br />
+6.&nbsp;&nbsp; FIFA Soccer 09 | Electronic Arts<br />
+7.&nbsp;&nbsp; Tiger Woods PGA Tour 09 | Electronic Arts<br />
+8.&nbsp;&nbsp; Major League Baseball 2K9 | Take Two<br />
+9.&nbsp;&nbsp; NHL 09 | Electronic Arts<br />
+10.&nbsp; NBA Live 09 | Electronic Arts</span></div>
+<p><span style="color: black; font-size: 10pt"><br />
+<strong>Nintendo Wii Most Popular Sports Games:<br />
+<br />
+</strong>1.&nbsp;&nbsp; Mario Power Tennis | Nintendo <br />
+2.&nbsp;&nbsp; Mario Super Sluggers | Nintendo<br />
+3.&nbsp;&nbsp; We Ski &amp; Snowboard | Namco<br />
+4.&nbsp;&nbsp; Tiger Woods PGA Tour 09 All-Play | Electronic Arts<br />
+5.&nbsp;&nbsp; Major League Baseball 2K9 | Take Two<br />
+6.&nbsp;&nbsp; AMF Bowling World Lanes | Bethesda<br />
+7.&nbsp;&nbsp; Skate It | Electronic Arts<br />
+8.&nbsp;&nbsp; Big League Sports | Activision<br />
+9.&nbsp;&nbsp; Mario &amp; Sonic at the Winter Olympic Games | Sega<br />
+10. Shaun White Snowboarding Road Trip | Ubisoft<br />
+<br />
+<strong>Nintendo DS Most Popular Sports Games:<br />
+<br />
+</strong>1.&nbsp;&nbsp; Mario Hoops 3 on 3 | Nintendo<br />
+2.&nbsp;&nbsp; Mario &amp; Sonic at the Winter Olympic Games | Sega<br />
+3.&nbsp;&nbsp; Tecmo Bowl Kickoff | Tecmo<br />
+4.&nbsp;&nbsp; Skate It | Electronic Arts<br />
+5.&nbsp;&nbsp; MLB 2K9 Fantasy All-Stars | Take Two<br />
+6.&nbsp;&nbsp; Madden NFL 09 | Electronic Arts<br />
+7.&nbsp;&nbsp; Polar Bowling | Mumbo Jumbo<br />
+8.&nbsp;&nbsp; FIFA Soccer 09 | Electronic Arts<br />
+9.&nbsp;&nbsp; Tony Hawk's Downhill Jam | Activision<br />
+10.&nbsp; Sega Superstars Tennis | Sega</span></p></span></p>
+        </div>
+        <div class="blog_end">
+          <img src="img/blog/blog_posted_by.png" width="28" height="15" />Posted by
+          <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#114;&#101;&#115;&#115;&#64;&#103;&#114;&#105;&#110;&#46;&#115;&#101;">Gunnar</a>
+          at
+          <span id="ctl00_ContentPlaceHolder1_lblTime">06:33</span></div>
+      </div>
+      <!----- item ----->
+    </div>
+    <div class="column_sep" style="width: 455px;">
+      <img src="img/news/news_more_news_sep.png" alt="More News" /></div>
+    <div class="column_item">
+      
+          <div class="news_more">
+            <div class="news_more_date">
+              <span id="ctl00_ContentPlaceHolder1_rptSpecMoreNews_ctl00_lblDate">15/04/2009</span></div>
+            <div class="news_more_item">
+              <a href="news.aspx?i=154 ">
+                Graphical production on Terminator Salvation
+              </a>
+            </div>
+            </a>
+            <br class="clearfix" />
+          </div>
+          <div class="news_more_sep">
+          </div>
+        
+          <div class="news_more">
+            <div class="news_more_date">
+              <span id="ctl00_ContentPlaceHolder1_rptSpecMoreNews_ctl01_lblDate">10/04/2009</span></div>
+            <div class="news_more_item">
+              <a href="news.aspx?i=153 ">
+                Giant Bomb checks out Bionic Commando
+              </a>
+            </div>
+            </a>
+            <br class="clearfix" />
+          </div>
+          <div class="news_more_sep">
+          </div>
+        
+          <div class="news_more">
+            <div class="news_more_date">
+              <span id="ctl00_ContentPlaceHolder1_rptSpecMoreNews_ctl02_lblDate">09/04/2009</span></div>
+            <div class="news_more_item">
+              <a href="news.aspx?i=152 ">
+                Silver Award to Wanted
+              </a>
+            </div>
+            </a>
+            <br class="clearfix" />
+          </div>
+          <div class="news_more_sep">
+          </div>
+        
+          <div class="news_more">
+            <div class="news_more_date">
+              <span id="ctl00_ContentPlaceHolder1_rptSpecMoreNews_ctl03_lblDate">02/04/2009</span></div>
+            <div class="news_more_item">
+              <a href="news.aspx?i=151 ">
+                GRIN on Eftersnack
+              </a>
+            </div>
+            </a>
+            <br class="clearfix" />
+          </div>
+          <div class="news_more_sep">
+          </div>
+        
+          <div class="news_more">
+            <div class="news_more_date">
+              <span id="ctl00_ContentPlaceHolder1_rptSpecMoreNews_ctl04_lblDate">01/04/2009</span></div>
+            <div class="news_more_item">
+              <a href="news.aspx?i=150 ">
+                Gametrailers talks Terminator with Ulf Andersson
+              </a>
+            </div>
+            </a>
+            <br class="clearfix" />
+          </div>
+          <div class="news_more_sep">
+          </div>
+        
+    </div>
+    <!----- item ----->
+  
+  
+
+        <br class="clearfix" />
+      </div>
+      
+<!----- right ----->
+<div id="right">
+
+
+<div id="right_outer">
+<div class="right_section">
+<img src="img/right/right_blog.png" />
+<ul>
+
+
+<li>
+<a href="blog.aspx?i=46">GDC 2009</a></li>
+
+<li>
+<a href="blog.aspx?i=45">Game Developing Just Got Mature</a></li>
+
+<li>
+<a href="blog.aspx?i=44">Cosplay Spencer at the GRIN office today</a></li>
+
+<li>
+<a href="blog.aspx?i=43">Happy New Year!</a></li>
+
+<li>
+<a href="blog.aspx?i=42">Merry Christmas</a></li>
+
+</ul>
+
+<a href="blog.aspx"><img src="img/right/right_view_blog.png"/></a>
+
+</div>
+
+
+<div class="right_section">
+<img src="img/right/right_news.png" />
+<ul>
+
+
+<li>
+<a href="news.aspx?i=154">Graphical production on Terminator Salvation</a></li>
+
+<li>
+<a href="news.aspx?i=153">Giant Bomb checks out Bionic Commando</a></li>
+
+<li>
+<a href="news.aspx?i=152">Silver Award to Wanted</a></li>
+
+<li>
+<a href="news.aspx?i=151">GRIN on Eftersnack</a></li>
+
+<li>
+<a href="news.aspx?i=150">Gametrailers talks Terminator with Ulf Andersson</a></li>
+
+</ul>
+<a href="news.aspx"><img src="img/right/right_view_news.png"/></a>
+</div>
+
+<div class="right_section">
+<img src="img/right/right_press.png" alt="Press area" />
+<p>Join our press area to keep updated with all GRIN activities. The press area is
+open for everyone - not only members of the press.</p>
+<div style="padding-top:10px;"><a href="press.aspx"><img src="img/right/right_view_signup.png" width="67" height="7" alt="Sign up now" /></a></div>
+</div>
+
+
+
+
+</div>
+
+</div>
+<!----- right ----->
+
+      <br class="clearfix" />
+    </div>
+  </div>
+  <!----- content wrapper ----->
+  <!----- footer ----->
+  
+<div id="footer">
+
+
+<ul style="list-style-type:none;margin:0; padding:0; color:#666666;">
+<li style="display:inline; margin-right:10px;">
+<b>Phone</b> +46 (0)8-31 36 95
+</li>
+<li style="display:inline;margin-right:10px;"><b>Fax</b> +46 (0)8-31 36 75</li>
+<li style="display:inline;margin-right:5px;"><b>Address</b> Hightech Building 22</li> <li style="margin-right:5px; display:inline;">101 52 STOCKHOLM / SWEDEN</li>
+</ul>
+<p style="font-size:10px; color:#999999;">Copyright © 2007 GRIN</p>
+
+
+  <!----- footer ----->
+  </div>
+  </form>
+</body>
+</html>

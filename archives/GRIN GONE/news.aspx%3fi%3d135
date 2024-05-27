@@ -1,0 +1,272 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>GRIN</title>
+  <link href="styles/screen.css" rel="stylesheet" type="text/css" />
+
+  <script language="javascript" src="js/sleight.js"></script>
+
+</head>
+<body>
+  <form name="aspnetForm" method="post" action="news.aspx?i=135" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIxMTg2MDc4MjNkZPAaK8ifoFtRqHGf3r16kuLo1EIB" />
+
+  <div id="main_wrapper">
+  <!----- header and shadow ----->
+  <div id="header">
+    
+
+<img src="img/header/top.png" width="900" height="99" border="0" usemap="#Map" />
+<map name="Map" id="Map"><area shape="rect" coords="332,59,372,80" href="./" alt="START" />
+<area shape="rect" coords="384,59,419,81" href="news.aspx" alt="NEWS" />
+<area shape="rect" coords="434,60,472,84" href="about.aspx" alt="About" />
+<area shape="rect" coords="488,59,527,82" href="games.aspx" alt="GAMES" />
+<area shape="rect" coords="543,58,575,83" href="jobs.aspx" alt="JOBS" />
+<area shape="rect" coords="592,59,641,84" href="contact.aspx" alt="CONTACT" />
+<area shape="rect" coords="651,58,690,82" href="blog.aspx" alt="BLOG" />
+<area shape="rect" coords="700,59,740,84" href="press.aspx" alt="PRESS" />
+<area shape="rect" coords="15,9,268,92" href="Default.aspx" alt="START" />
+</map>
+
+  </div>
+  <div id="header_shadow">
+  </div>
+  <!----- header and shadow ----->
+  <!----- content wrapper ----->
+  <div id="wrapper">
+    <div id="inner_wrapper">
+      <div id="content">
+        
+ <div class="news_rss"><a href="rss/news.ashx"><img src="img/main/rss.png" alt="RSS feed" /></a></div>
+  
+  
+    <div class="column_holder">
+      <div class="column_nav">
+        <span class="column_nav_cat">Most read</span><span class="column_nav_showall">(<a
+          href="news.aspx?arc=1&arcID=1">show all)</a></span>
+        <ul>
+          
+              <li><a href="news.aspx?i=88">
+                Wanted - Developed by GRIN
+              </a></li>
+            
+              <li><a href="news.aspx?i=112">
+                Terminator Salvation announced
+              </a></li>
+            
+              <li><a href="news.aspx?i=82">
+                GRIN Gaming Edition mouse pad
+              </a></li>
+            
+              <li><a href="news.aspx?i=41">
+                GRIN on Swedish TV4 - How games are created
+              </a></li>
+            
+              <li><a href="news.aspx?i=92">
+                Bionic Commando Rearmed - buy it today!
+              </a></li>
+            
+        </ul>
+      </div>
+      <!----- item ----->
+      <div class="column_item">
+        <div class="blog_date">
+          <img alt="Friday 23 January 2009" src="/images/headers/pf_small/dynamicimage.aspx?text=Friday 23 January 2009" />
+        </div>
+        <div class="blog_headline">
+          <img alt="2Player talks to Dan Thronström" src="/images/headers/pf_heading/dynamicimage.aspx?text=2Player talks to Dan Thronström" />
+        </div>
+        <div class="blog_text">
+          <p>
+            <span id="ctl00_ContentPlaceHolder1_txtText"><p><img class="" align="middle" alt="" src="http://www.2player.se/images/uploads/12325661129941cfd1048.jpg" /><br />
+Swedish <strong>2Player.se</strong> talks to <strong>Dan <em>Dante </em>Thronstr&ouml;m</strong> at GRIN. The article is in Swedish.<br />
+<br />
+<a target="_blank" href="http://www.2player.se/artiklar/grin-om-japanska-bossfighter-1219">Read interview here &gt;&gt;</a></p></span></p>
+        </div>
+        <div class="blog_end">
+          <img src="img/blog/blog_posted_by.png" width="28" height="15" />Posted by
+          <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#114;&#101;&#115;&#115;&#64;&#103;&#114;&#105;&#110;&#46;&#115;&#101;">Gunnar</a>
+          at
+          <span id="ctl00_ContentPlaceHolder1_lblTime">14:36</span></div>
+      </div>
+      <!----- item ----->
+    </div>
+    <div class="column_sep" style="width: 455px;">
+      <img src="img/news/news_more_news_sep.png" alt="More News" /></div>
+    <div class="column_item">
+      
+          <div class="news_more">
+            <div class="news_more_date">
+              <span id="ctl00_ContentPlaceHolder1_rptSpecMoreNews_ctl00_lblDate">31/03/2009</span></div>
+            <div class="news_more_item">
+              <a href="news.aspx?i=149 ">
+                Wanted number one in online rentals
+              </a>
+            </div>
+            </a>
+            <br class="clearfix" />
+          </div>
+          <div class="news_more_sep">
+          </div>
+        
+          <div class="news_more">
+            <div class="news_more_date">
+              <span id="ctl00_ContentPlaceHolder1_rptSpecMoreNews_ctl01_lblDate">29/03/2009</span></div>
+            <div class="news_more_item">
+              <a href="news.aspx?i=148 ">
+                Eskilstuna Kuriren talks to GRIN's Dan Eriksson
+              </a>
+            </div>
+            </a>
+            <br class="clearfix" />
+          </div>
+          <div class="news_more_sep">
+          </div>
+        
+          <div class="news_more">
+            <div class="news_more_date">
+              <span id="ctl00_ContentPlaceHolder1_rptSpecMoreNews_ctl02_lblDate">26/03/2009</span></div>
+            <div class="news_more_item">
+              <a href="news.aspx?i=147 ">
+                Bombcast and Swedish candy
+              </a>
+            </div>
+            </a>
+            <br class="clearfix" />
+          </div>
+          <div class="news_more_sep">
+          </div>
+        
+          <div class="news_more">
+            <div class="news_more_date">
+              <span id="ctl00_ContentPlaceHolder1_rptSpecMoreNews_ctl03_lblDate">24/03/2009</span></div>
+            <div class="news_more_item">
+              <a href="news.aspx?i=146 ">
+                Wanted - Out in Stores Today
+              </a>
+            </div>
+            </a>
+            <br class="clearfix" />
+          </div>
+          <div class="news_more_sep">
+          </div>
+        
+          <div class="news_more">
+            <div class="news_more_date">
+              <span id="ctl00_ContentPlaceHolder1_rptSpecMoreNews_ctl04_lblDate">14/03/2009</span></div>
+            <div class="news_more_item">
+              <a href="news.aspx?i=145 ">
+                Concept Art Show in Stockholm
+              </a>
+            </div>
+            </a>
+            <br class="clearfix" />
+          </div>
+          <div class="news_more_sep">
+          </div>
+        
+    </div>
+    <!----- item ----->
+  
+  
+
+        <br class="clearfix" />
+      </div>
+      
+<!----- right ----->
+<div id="right">
+
+
+<div id="right_outer">
+<div class="right_section">
+<img src="img/right/right_blog.png" />
+<ul>
+
+
+<li>
+<a href="blog.aspx?i=46">GDC 2009</a></li>
+
+<li>
+<a href="blog.aspx?i=45">Game Developing Just Got Mature</a></li>
+
+<li>
+<a href="blog.aspx?i=44">Cosplay Spencer at the GRIN office today</a></li>
+
+<li>
+<a href="blog.aspx?i=43">Happy New Year!</a></li>
+
+<li>
+<a href="blog.aspx?i=42">Merry Christmas</a></li>
+
+</ul>
+
+<a href="blog.aspx"><img src="img/right/right_view_blog.png"/></a>
+
+</div>
+
+
+<div class="right_section">
+<img src="img/right/right_news.png" />
+<ul>
+
+
+<li>
+<a href="news.aspx?i=149">Wanted number one in online rentals</a></li>
+
+<li>
+<a href="news.aspx?i=148">Eskilstuna Kuriren talks to GRIN's Dan Eriksson</a></li>
+
+<li>
+<a href="news.aspx?i=147">Bombcast and Swedish candy</a></li>
+
+<li>
+<a href="news.aspx?i=146">Wanted - Out in Stores Today</a></li>
+
+<li>
+<a href="news.aspx?i=145">Concept Art Show in Stockholm</a></li>
+
+</ul>
+<a href="news.aspx"><img src="img/right/right_view_news.png"/></a>
+</div>
+
+<div class="right_section">
+<img src="img/right/right_press.png" alt="Press area" />
+<p>Join our press area to keep updated with all GRIN activities. The press area is
+open for everyone - not only members of the press.</p>
+<div style="padding-top:10px;"><a href="press.aspx"><img src="img/right/right_view_signup.png" width="67" height="7" alt="Sign up now" /></a></div>
+</div>
+
+
+
+
+</div>
+
+</div>
+<!----- right ----->
+
+      <br class="clearfix" />
+    </div>
+  </div>
+  <!----- content wrapper ----->
+  <!----- footer ----->
+  
+<div id="footer">
+
+
+<ul style="list-style-type:none;margin:0; padding:0; color:#666666;">
+<li style="display:inline; margin-right:10px;">
+<b>Phone</b> +46 (0)8-31 36 95
+</li>
+<li style="display:inline;margin-right:10px;"><b>Fax</b> +46 (0)8-31 36 75</li>
+<li style="display:inline;margin-right:5px;"><b>Address</b> Hightech Building 22</li> <li style="margin-right:5px; display:inline;">101 52 STOCKHOLM / SWEDEN</li>
+</ul>
+<p style="font-size:10px; color:#999999;">Copyright © 2007 GRIN</p>
+
+
+  <!----- footer ----->
+  </div>
+  </form>
+</body>
+</html>
