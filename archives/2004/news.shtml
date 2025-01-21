@@ -1,0 +1,358 @@
+<HTML>
+<HEAD>
+ <TITLE>Grin</TITLE>
+<LINK rel="stylesheet" type="text/css" href="css/grin_format.css">
+<SCRIPT language="JavaScript">
+<!--
+function MM_swapImgRestore()
+{ //v2.0
+ if (document.MM_swapImgData != null)
+ for (var i=0; i<(document.MM_swapImgData.length-1); i+=2)
+ document.MM_swapImgData[i].src = document.MM_swapImgData[i+1];
+}
+function MM_preloadImages()
+{ //v2.0
+ if (document.images)
+ {
+  var imgFiles = MM_preloadImages.arguments;
+  if (document.preloadArray==null) document.preloadArray = new Array();
+  var i = document.preloadArray.length;
+  with (document) for (var j=0; j<imgFiles.length; j++) if (imgFiles[j].charAt(0)!="#")
+  {
+   preloadArray[i] = new Image;
+   preloadArray[i++].src = imgFiles[j];
+  }
+ }
+}
+
+function MM_swapImage()
+{ //v2.0
+ var i,j=0,objStr,obj,swapArray=new Array,oldArray=document.MM_swapImgData;
+ for (i=0; i < (MM_swapImage.arguments.length-2); i+=3)
+ {
+  objStr = MM_swapImage.arguments[(navigator.appName == 'Netscape')?i:i+1];
+  if ((objStr.indexOf('document.layers[')==0 && document.layers==null) ||
+  (objStr.indexOf('document.all[')   ==0 && document.all   ==null))
+  objStr = 'document'+objStr.substring(objStr.lastIndexOf('.'),objStr.length);
+  obj = eval(objStr);
+  if (obj != null)
+  {
+   swapArray[j++] = obj;
+   swapArray[j++] = (oldArray==null || oldArray[j-1]!=obj)?obj.src:oldArray[j];
+   obj.src = MM_swapImage.arguments[i+2];
+  }
+ }
+ document.MM_swapImgData = swapArray; //used for restore
+}
+//-->
+<!--
+function popup_site(x)
+ {
+  window.open(x, "popup_site", "width=600,height=400,location=no,menubar=no,toolbar=no,resizable=no,scrollbars=no,status=no");
+ }
+//-->
+</SCRIPT>
+</HEAD>
+<BODY bgcolor="#4B5F5F" text="#F1EEE7" link="#F2EACF" vlink="#F2EACF" alink="#F2EACF" onLoad="MM_preloadImages('bilder/News2.gif','#949677699070');MM_preloadImages('bilder/Company2.gif','#949677724060');MM_preloadImages('bilder/Contact2.gif','#949677750590');MM_preloadImages('bilder/Games2.gif','#949677790580');MM_preloadImages('bilder/Links2.gif','#949677821390');" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" align="center">
+<A name="sitetop"></A>
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" align="center" valign="top">
+ <TR align="center" valign="top" bgcolor="#4B5F5F">
+  <TD align="center" valign="top" bgcolor="#4B5F5F"><DIV align="center"><TABLE width="775" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" align="center" valign="top">
+    <TR>
+     <TD width="277" height="167" rowspan="3"><IMG src="bilder/LogoGrin.GIF" width="277" height="167"></TD>
+     <TD width="185" height="167" rowspan="3">&nbsp;</TD>
+     <TD width="295" height="55">&nbsp;</TD>
+    </TR>
+    <TR>
+     <TD width="295" height="72" align="right"><DIV align="right"><IMG src="bilder/LogoText.GIF" width="295" height="72"></TD>
+    </TR>
+    <TR>
+     <TD width="295" height="45" align="right"><B><FONT size="1" face="Verdana,Arial,Helvetica,sans-serif" color="#333333"><DIV align="right">Last updated: 11th Mar 2003 - GRIN Inc.<BR>
+      All content &copy; GRIN Inc. 2002</DIV></FONT></B></TD>
+    </TR>
+   </TABLE></DIV></TD>
+ </TR>
+ <TR align="center" valign="top" bgcolor="#4B5F5F">
+  <TD align="center" valign="top" bgcolor="#4B5F5F"><IMG src="bilder/DarkDot.gif" width="775" height="1"><BR><BR></TD>
+ </TR>
+ <TR align="center" valign="top" bgcolor="#4B5F5F">
+  <TD align="center" valign="top" bgcolor="#4B5F5F"><DIV align="center"><TABLE width="775" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" align="center" valign="top">
+    <TR>
+     <TD width="193" valign="top"><A href="news.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.News','document.News','bilder/News2.gif','#949677699070')"><IMG name="News" border="0" src="bilder/News.gif" width="103" height="35"></A><BR>
+      <!--&nbsp;&nbsp;<A href="news.htm#MonthYear"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>Headline</B></FONT></A><BR>
+      &nbsp;&nbsp;<FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3">- Month Year</FONT><BR>
+      &nbsp;&nbsp;<A href="news.htm#MonthYear"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>Headline</B></FONT></A><BR>
+      &nbsp;&nbsp;<FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3">- Month Year</FONT><BR>
+      &nbsp;&nbsp;<A href="news.htm#MonthYear"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>Headline</B></FONT></A><BR>
+      &nbsp;&nbsp;<FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3">- Month Year</FONT><BR>
+      &nbsp;&nbsp;<A href="news.htm#MonthYear"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>Headline</B></FONT></A><BR>
+      &nbsp;&nbsp;<FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3">- Month Year</FONT><BR>
+      &nbsp;&nbsp;<A href="news.htm#MonthYear"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>Headline</B></FONT></A><BR>
+      &nbsp;&nbsp;<FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3">- Month Year</FONT><BR>-->
+      <A href="company.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Company','document.Company','bilder/Company2.gif','#949677724060')"><img name="Company" border="0" src="bilder/Company.gif" width="183" height="35"></A><BR>
+      <A href="games.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Games','document.Games','bilder/Games2.gif','#949677790580')"><IMG name="Games" border="0" src="bilder/Games.gif" width="126" height="35"></A><BR>
+      <A href="contact.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Contact','document.Contact','bilder/Contact2.gif','#949677750590')"><img name="Contact" border="0" src="bilder/Contact.gif" width="193" height="35"></A><BR>
+      <A href="links.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Links','document.Links','bilder/Links2.gif','#949677821390')"><IMG name="Links" border="0" src="bilder/Links.gif" width="106" height="35"></A><BR>
+      <DIV align="center"><A href="http://www.bandits-game.com/redirect.html"><IMG src="bilder/tormee_banner.gif" width="100" height="136" border="0"></A></DIV></TD>
+     <TD align="left" valign="top" width="22">&nbsp;</TD>
+     <TD align="left" valign="top" width="550"><DIV align="left"><IMG src="bilder/News_icon.gif" width="50" height="50"><IMG src="bilder/Newsb.gif" width="147" height="50"></DIV><BR>
+      <TABLE width="550" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" align="top">
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="29may2001"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>11th&nbsp;Mar&nbsp;2003&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>Vultures website live, and GRIN in LA</B><BR><BR>
+         First off, the upcoming GRIN breed - Vultures - now has its own official website. Vultures' publisher CDV announced the 6th of March, that the site is up.<BR>
+         The site includes a nice set of screens, a developer diary and more to come! Are you still reading <I>this</I>!? Well go over to the <A href="http://www.vulturesgame.com" target="_blank">the official Vultures website</A> ASAP, stupid!<BR>
+         Also, go <A href="pr_vulturessite.shtml">here</A> to read the press release.<BR><BR>
+         Secondly, GRIN expands by establishing Randolph Beverly as our point of contact for US publishers, with a strong focus on the next generation consoles and heavy IP's.<BR>
+         Read the entire press release right <A href="pr_randolph.shtml">here</A>.<BR><BR>
+         - GRIN<BR></DIV>
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="29may2001"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>22nd&nbsp;Nov&nbsp;2002&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>Bandits tournament at Dreamhack - win a graphics card!</B><BR><BR>
+         In cooperation with Gamingeye PAN Vision presents a Bandits - Phoenix Rising multiplayer tournament at Dreamhack Winter 2002. The tournament is a one on one Double Elimination-competition and it's open to Gamingeye members who visit Dreamhack Winter, 28th of Nov - 1st Dec in J&ouml;nk&ouml;ping, Sweden.<BR>
+         Read more at <A href="http://www.bandits-game.com" target="_blank">the official Bandits website</A>.<BR><BR>
+         - GRIN & PAN Vision<BR></DIV>
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="29may2001"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>4th&nbsp;Nov&nbsp;2002&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>BANDITS to be released in North America this December!</B><BR><BR>
+         <I>US publisher <A href="http://www.trisynergy.com" target="_blank">Tri Synergy</A> has acquired the license for PAN Vision's acclaimed action title Bandits - Phoenix Rising for the North American market. Tri Synergy expects to release the game December this year.</I><BR><BR>
+         Read the whole press release right <A href="pr_bandits2.shtml">here</A>.<BR><BR>
+         - GRIN<BR></DIV>
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>
+       <!--<TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="29may2001"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>23rd&nbsp;Sep&nbsp;2002&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>BANDITS are invading the world</B><BR><BR>
+         ...and they're starting off in Scandinavia!<BR><BR>
+         It is now confirmed by the GRIN team itself that "BANDITS - Phoenix Rising" is out in stores in Stockholm City. Hopefully then - and, most likely - it is out in the rest of Scandinavia as well.<BR>
+         So fellow scandinavians - immediately trot down to your local game retailer, grab yourself a copy and blast away!<BR><BR>
+         Release date for "BANDITS - Phoenix Rising" outside Scandinavia is yet to be announced.<BR><BR>
+         - GRIN<BR></DIV>
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>-->
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="29may2001"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>6th&nbsp;Sep&nbsp;2002&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>BANDITS demo out now!</B><BR><BR>
+         The much demanded "BANDITS - Phoenix Rising" demo is here, featuring one single player mission, two multiplayer maps for internet gaming via GameSpy, or LAN.<BR>
+         The end is near; GRIN provide the means - you got three vehicles and a big whoping range of  13 weapons, as well as four fat music tracks to caress your eardrums with!<BR><BR>
+         After playing make sure to drop by the <A href="http://forum.bandits-game.com" target="_blank">BANDITS forums</A> and have your say. When there make sure to team up with others and have a go at the online deathmatch mayhem!<BR><BR>
+         Head over to <A href="http://www.fileplanet.com/files/110000/112683.shtml" target="_blank">FilePlanet</A> to download, gear up, and gun down!<BR><BR>
+         - GRIN<BR></DIV>
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="29may2001"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>3rd&nbsp;Sep&nbsp;2002&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>GRIN report from ECTS</B><BR><BR>
+         The GRIN expedition is back from this year's ECTS games exhibition in London and boy, did we have a ball!<BR>
+         Read our little report from the stand that despite its wasteland furnishing unexpectedly became a bit of a gamers' oasis at the show... ...<A href="ects2002.shtml">right here</A>.<BR><BR>
+          - GRIN<BR></DIV>
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="29may2001"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>27th&nbsp;Aug&nbsp;2002&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B><!--Press Releaser: -->Matrox Parhelia(TM) to power GRIN's booth at ECTS 2002</B><BR><BR>
+         All you gamers dropping by our stand 1520 at ECTS 2002 will see that BANDITS is played out on 3 monitor systems using the Parhelia graphics card. GRIN and Matrox have teamed up to bring you some true rock n' roll action on wheels. See you in London.<BR>
+         From the Matrox Press release:<BR><BR>
+         <I>&quot;Matrox Parhelia(TM) to power GRIN's booth at ECTS 2002<BR>
+         Come play BANDITS - Phoenix Rising, by GRIN, shown publicly for the very first time, in Surround Gaming on the Matrox Parhelia at ECTS from August 29th to the 31st. Parhelia graphics cards will power all of the systems, four of which will be networked via a LAN, at GRIN's booth (#1520). Everyone is invited to experience the engaging excitement of Surround Gaming!&quot;</I><BR><BR>
+          - GRIN<BR></DIV>
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="29may2001"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>23th&nbsp;Aug&nbsp;2002&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>Press Release: BANDITS Forum up!</B><BR><BR>
+         <A href="http://forum.bandits-game.com" target="_blank">The Official BANDITS Forum</A> at <A href="http://www.bandits-game.com" target="_blank">www.bandits-game.com</A> is up and running like scalded goat in a lard filled sewer system!<BR>
+         If you have any questions about the game, its development, its developers or any other BANDITS related wonderings, don't hesitate to drop a post in the forum!<BR>
+         GRIN staff will be around answering questions, commenting on gossip and helping you with tech-support when the game is out.<BR>
+         Later on the message board will also work as a forum for finding other bandits to challenge in multiplayer matches or forming BANDITS gangs (clans).<BR><BR>
+         Join the forum and find the bandit within you - the game is out SOON!<BR><BR>
+          - GRIN<BR></DIV>
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="29may2001"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>13th&nbsp;Aug&nbsp;2002&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>GRIN to ECTS with BANDITS</B><BR><BR>
+         GRIN and PAN Vision will be holding an exclusive BANDITS event at ECTS 2002.<BR><BR>
+         Stand 1520 is hosting a BANDITS outpost where the developers GRIN will present the game throughout the three full days. This is the first time ever the game is shown and it will be shown all the way. The full version of <A href="http://www.bandits-game.com" target="_blank">BANDITS - Phoenix Rising</A> will be on the stand with both single player and multiplayer sessions in play - hand on for everyone!<BR><BR>
+         If you want a sit down interview with the game designers make sure to grab a spot! Contact <A href="mailto:bo@grin.se">Bo@GRIN.se</A><BR><BR>
+         The stand will be fully open to everyone and GRIN will be handing out exclusive ECTS demos to the visitors.<BR><BR>
+         Gear up for ECTS 2002 and the BANDITS rumble!<BR><BR>
+          - The GRIN team<BR></DIV>
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="29may2001"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>26th&nbsp;Jul&nbsp;2002&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>BANDITS - Phoenix Rising introduction website open</B><BR><BR>
+         Tormee’s Diary is a traveller's story about his adventures and discoveries in the outback of BANDITS territory.<BR>
+         Launching today our brave traveller Tormee will take you on a journey filled with information on the new GRIN game &quot;BANDITS - Phoenix Rising&quot;, hints on the plot and of course screens and sketches, movies and music.<BR>
+         Tormee will update his diary twice a week until the release of BANDITS. Grab your gear and come follow us into the desert!<BR>
+         The Tormee's diary is available <A href="javascript: popup_site('bandits/tormee/main.htm')">right here</A>.<BR><BR>
+          - The GRIN team<BR></DIV>
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="29may2001"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>24th&nbsp;Jul&nbsp;2002&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>GRIN releases new game!</B><BR><BR>
+         Sorry for the nonexistent updates of the website, fellahs... but the GRIN team has been busy doing something even more important (really!) - making games.<BR><BR>
+         The new game is called &quot;BANDITS - Phoenix Rising&quot; and you can read the whole press release <A href="pr_bandits1.shtml">right here</A>.<BR><BR>
+          - From the GRIN team, with love<BR></DIV>
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="29may2001"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>22nd&nbsp;Jan&nbsp;2002&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>Interplay OEM, Inc. and GRIN in agreement</B><BR><BR>
+         &quot;IRVINE, California, January 21, 2002 - Interplay OEM, Inc., a wholly owned subsidiary of Interplay Entertainment Corp. (NASDAQ: IPLY) announced today a worldwide Original Equipment Manufacturer (OEM) and Premium distribution agreement with Sweden based GRIN Inc.&quot;<BR><BR>
+         Read the whole press release <A href="pr_interplayoem.shtml">right here</A>.<BR><BR>
+          - GRIN<BR></DIV>
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="29may2001"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>6th&nbsp;Dec&nbsp;2001&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>Ballistics Patch 1.0 out</B><BR><BR>
+         The long awaited Ballistics patch is here.<BR>
+         Observe that there are two different patches in this release. One for the RETAIL game and one for the DEMO. They take app 570 kB.<BR><BR>
+         Download the <A href="ballistics/patches/Ballistics_RETAIL_Patch_1-0-1.exe">RETAIL PATCH</A><BR><BR>
+         Download the <A href="ballistics/patches/Ballistics_DEMO_Patch_1-0-1.exe">DEMO PATCH</A><BR><BR>
+         Read more about the patch <A href="ballistics/default_patch1.htm">here</A>.<BR><BR>
+          - GRIN<BR></DIV>
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="29may2001"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>22nd&nbsp;Nov&nbsp;2001&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>CDV Software signs deal with GRIN</B><BR><BR>
+         Press release 22.11.2001<BR>
+         So with Ballistics on the way out we is now proud to announce that GRIN title No 3 has found a home and a mission. Straight from the CDV Software website <A href="http://www.cdv.ag/english/index.html" target="_blank">here are the news</A>, and <A href="http://www.cdv.de/english/_frameset.php3?suchbegriff=vultures" target="_blank">here's the eyecandy</A>!<BR><BR>
+          - GRIN<BR></DIV>
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="29may2001"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>3rd&nbsp;Nov&nbsp;2001&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>Ballistics Demo up!</B><BR><BR>
+         The long awaited stuff is here! Now everyone can go Ballistics and throw themselves into the Speed trials. The demo offers three levels of geometry of the SkyTown track on Rookie, Pro and Ballistics level. There is also a quick tutorial for you.<BR><BR>
+         The minimum specs are:<BR>
+         <UL>
+          <LI>CPU 400
+          <LI>RAM 128
+          <LI>3D-card: Geforce1/Voodoo4 or ATI Radeon
+          </UL>
+          Also MAKE SURE to use the latest drivers from your 3D card vendor and if you have a VIA based motherboard please use the 4-1 driver available from the <A href="http://www.viatech.com" target="_blank">VIA</A>.<BR>
+          This demo is not guaranteed under Windows XP using SoundBlaster Live and Audigy cards yet.<BR>
+          <!--If you have any questions about Ballistics head over to <A href="http://www.pcinnovations.com/forum/forumdisplay.php?s=22b0e34da76481685af527307c46d203&forumid=9" target="_blank">The Official Ballistics Forum</A>.<BR>-->
+          The demo is free to mirror and spread anyway and anywhere.<BR><BR>
+          Download the demo <A href="ballistics/demo/BallisticsDemo.exe">right here</A> and go ballistic!<BR><BR>
+          - GRIN<BR></DIV>
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="29may2001"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>22th&nbsp;Oct&nbsp;2001&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>Buy Ballistics online!</B><BR><BR>
+         Yes, it has been confirmed. <A href="http://www.amazon.co.uk/exec/obidos/ASIN/B00005RS5Z/qid=1003749585/sr=1-1/ref=sr_sp_re/026-6963306-4758849" target="_blank">Amazon.co.uk</A> currently holds Ballistics in stock and the title ships within one day from order. The price is £24.99 and it can be purchased for the following territories:<BR><BR>
+         Austria, Belgium, Denmark, Finland, France, Germany, Gibraltar, Greece, Iceland, Italy, Lichtenstein, Luxemburg, Netherlands, Norway, Portugal, Republic of Ireland, Spain, Sweden, Switzerland and UK.<BR><BR>
+         So if you can't wait for the stores to rack 'em up - check out <A href="http://www.amazon.co.uk/exec/obidos/ASIN/B00005RS5Z/qid=1003749585/sr=1-1/ref=sr_sp_re/026-6963306-4758849" target="_blank">Amazon</A>.
+         - GRIN<BR></DIV>
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="29may2001"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>18th&nbsp;Oct&nbsp;2001&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>Ballistics in stores, quotes from GRIN press release:</B><BR><BR>
+         <I>Fellow speedfreaks, it is now official!<BR><BR>
+         It is finally here. GRIN has established a publishing agreement with Xicat Interactive for the fastest game on Earth - Ballistics!<BR>
+         Ballistics will be released by Xicat in the UK on the 19th of October, all over Europe within two weeks from that and in the US on the 6th of November.</I><BR><BR>
+         Read the full press release at the Ballistics website, right <A href="ballistics/default_retailpr.htm">here</A>.<BR><BR>
+         - GRIN<BR></DIV>
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="29may2001"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>29th&nbsp;May&nbsp;2001&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>Back from E3</B><BR><BR>
+         GRIN attended to the Electronic Entertainment Expo in Los Angeles, USA, showing the visitors the new standard of high-speed racing by putting them behind the controls of a Ballistics speeder. Thanks to all of you gamers who tried the game out and congratulations to you who managed to break the sound barrier - wear your GRIN t-shirts with pride!<BR><BR>
+         <B>Press Release</B><BR>
+         <I>&quot;Triotech Amusement announces signing a license agreement with the Swedish based company GRIN, for an arcade version of Ballistics&#153;.&quot;</I><BR>
+         Read the full press release at the Ballistics website, right <A href="ballistics/default_arcadepr.htm">here</A>.<BR><BR>
+         - The GRIN team and Triotech Amusement<BR></DIV>
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="15nov2000"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>27th Feb 2001</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3">
+         <B>Ballistics&#153; is a Geforce 3 flagship!</B><BR><BR>
+          After much secrecy we are pleased to reveal that GRIN has teamed up with the worlds No 1 3D card manufacturer in their strive for excellence. Being a high end game we chose to take the full potential of <I>n</I>VIDIA's new Geforce 3 card in use. Ballistics&#153; is a leading example of what great hardware and software can produce if teamed right. We have totally rewritten the Diesel Engine to take advantage of the Dx8 features supported by <I>n</I>VIDIA such as pixel and vertex shaders. Ballistics&#153; is only the beginning in GRINs crusade for graphical extravaganza - but oh what a beginning. If you thought Ballistics&#153; looked ground breaking before, head for the <A href="ballistics/ballistics_screenshots.htm">screenshot section</A> to see the extreme version from the new Diesel Engine fueled by the Geforce3 card. Enjoy!<BR><BR>
+          - The GRIN team
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="15nov2000"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>25th Feb 2001</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3">
+         <B>GRIN appoints new Director of the Board</B><BR><BR>
+          GRIN are pleased to announce that Mr. Tomas Franzén has been appointed Director of the Board.<BR><BR>
+          Mr Franzén has joined GRIN to head the board of directors and guide the company in its strategy and business development. Mr Franzén is currently the CEO of the very successful high tech company AU System noted on the Swedish Stock Exchange.<BR><BR>
+          <I>&quot;As CEO I'm very pleased to be receiving guidance and valuable help from Mr Franzén with his senior experience in business development and management of fast moving organizations such as GRIN.&quot;</I><BR><BR>
+          - Bo Andersson, CEO GRIN Inc
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="15nov2000"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>7th&nbsp;Dec&nbsp;2000&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3">
+         <B> Pilot Program Closed</B><BR><BR>
+          Pilots and fellow spectators, we here by end the gathering of Pilots and might we say that we are extremely pleased with the enrolling that's been going on for the last couple of days. Some of you out there just have rigs we have to envy. The Pilots who signed up will get notification in a day or two. And to round up the whole thing we posted some new screens from the tracks - thank you!<BR><BR>
+          Ulf - Producer
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>
+       <!--<TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="15nov2000"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>7th&nbsp;Dec&nbsp;2000&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3">
+         <B> Ballistics&#153; Discussion Forum</B><BR><BR>
+          GRIN would like to introduce the <a href="http://www.pcinnovations.com/forum/forumdisplay.php?s=7021abb04b9460baddbc4de02f4a7b4b&forumid=11" target="_blank">Ballistics&#153; forum</a> over at thefraglimit.com Together with the guys at TFL we'd like to welcome you over for any questions or discussions you would like to get into about Ballistics&#153; and GRIN. Feel free to <a href="http://www.fraggersforum.com/ubb/Forum12/HTML/000002.html">pop in and ask.</a> Our CEO Bo Andersson administrates the forum and he will be dropping in daily for a chat.<BR><BR>
+          Peter Edmark - 3D Artist
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>-->
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="15nov2000"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>18th&nbsp;Nov&nbsp;2000&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>- New screens!</B><BR><BR>
+         The Ballistics&#153; page have been updated with some new screens and as things evolve it will be frequently updated.</DIV>
+         <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;</FONT></DIV></TD>
+       </TR>
+       <TR align="left" valign="top" width="550">
+        <TD align="left" valign="top"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A name="10sep2000"></A><IMG src="bilder/SmallPlupp.gif" width="9" height="9">&nbsp;<B>10th&nbsp;Sep&nbsp;2000&nbsp;</B></FONT></TD>
+        <TD align="left" valign="top"><P align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B>- Welcome to the online Preimiere of GRIN!</B><BR><BR>
+         GRIN is now ready to reveal its game and technology to the gaming community. We have stayed very quiet and in the dark for long. <IMG src="ECTS/ECTS_01_thumb.jpg" width="100" height="75" border="0" align="right">Our first appearance was the 3rd of September at ECTS 2000 stand NG 270. The purpose of this secrecy is of course to be able to develop our game and technology without giving away any half true promises to the gamers about what we will create and deliver. We now feel very comfortable with our setup; <A href="ballistics/default.htm">Ballistics&#153;</A> the racing game of the future and the Diesel Engine&#153; the 3D technology behind the game. The visitors at ECTS were given the opportunity to check out Ballistics&#153; in action as well as play the thing. We’d like to congratulate Kevin Petersen from England who was the first guy on site to try Ballistics&#153; - going a full 1014 km/h down the city track.<BR><BR>
+         &nbsp;&nbsp;We trust the press community to serve you fans with screenshots but we will also post  a few on site now and then as the project goes on.</DIV>
+         <!--<DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+         &nbsp;--></FONT></DIV></TD>
+       </TR>
+      </TABLE><BR>
+      <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A></FONT><BR><BR>
+      &nbsp;</DIV></TD>
+    </TR>
+   </TABLE></DIV></TD>
+ </TR>
+</TABLE>
+</BODY>
+</HTML>

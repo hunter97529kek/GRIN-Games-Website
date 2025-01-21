@@ -1,0 +1,82 @@
+<HTML>
+<HEAD>
+ <TITLE>GRIN Inc - The Website</TITLE>
+ <LINK rel="stylesheet" type="text/css" href="css/grin_format.css">
+<SCRIPT language="JavaScript">
+<!--
+function popup_screens(x)
+{
+ window.open(x, "popup_screens", "width=400,height=330,location=no,menubar=no,toolbar=no,resizable=no,scrollbars=no,status=no");
+}
+-->
+</SCRIPT>
+</HEAD>
+<BODY bgcolor="#4B5F5F" text="#F1EEE7" link="#F2EACF" vlink="#F2EACF" alink="#F2EACF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" align="center">
+<DIV align="left"><A name="sitetop"></A>
+<TABLE width="535" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" valign="top">
+ <TR>
+  <TD align="left" valign="top" width="535"><DIV align="center"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="3" color="#C7BDB3"><B>GRIN is currently developing</B><BR>&nbsp;</FONT></DIV>
+   <TABLE width="535" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" valign="top">
+    <TR>
+     <TD align="left" valign="top" width="144" colspan="3"><A href="http://www.vulturesgame.com" target="_blank"><IMG src="gfx/vultureslogo_transparent.gif" width="535" height="67" border="0"></A></TD>
+    </TR>
+    <TR>
+     <TD align="left" valign="center" width="535" height="4" colspan="3"></TD>
+    </TR>
+    <TR>
+     <TD width="74" align="left" valign="top"><A href="javascript: popup_screens('games/vultures_screenshots/vultures_screenshot01.htm')"><IMG src="games/vultures_screenshots/screen01_thumb70x53.jpg" width="70" height="53" border="0" alt="Click for larger picture"></A><BR>
+     <A href="javascript: popup_screens('games/vultures_screenshots/vultures_screenshot02.htm')"><IMG src="games/vultures_screenshots/screen02_thumb70x53.jpg" width="70" height="53" border="0" alt="Click for larger picture"></A><BR>
+     <A href="javascript: popup_screens('games/vultures_screenshots/vultures_screenshot03.htm')"><IMG src="games/vultures_screenshots/screen03_thumb70x53.jpg" width="70" height="53" border="0" alt="Click for a successful and prosperous life"></A></TD>
+     <TD valign="top" width="4" rowspan="7">&nbsp;</TD>
+     <TD valign="top"><DIV align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B><A href="http://www.vulturesgame.com" target="_blank">Vultures&#153;</A></B> - GRIN's upcoming gladiatorial fighting game: The closest your Xbox will ever get to a two-handed sword!<BR>
+      Vultures brings real western-style fighting to your screen! Enough of those pink graphics - Vultures features bloody fights in dark arenas.<BR><BR>
+      <I>Xbox, due to be released in 2nd half of 2003.</I></DIV><BR>
+      <DIV align="right"><A href="http://www.vulturesgame.com" target="_blank">Vultures Official Website</A> - <A href="http://www.cdv-board.de/english/forumdisplay.php?forumid=36" target="_blank">Vultures Official Forum</A></DIV></TD>
+    </TR>
+   </TABLE>
+   <HR size="1" color="#333333">
+   <DIV align="center"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="3" color="#C7BDB3"><B>Other GRIN games</B><BR>&nbsp;</FONT></DIV>
+   <TABLE width="535" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" valign="top">
+    <TR>
+     <TD align="left" valign="top" width="144" colspan="3"><A href="http://www.bandits-game.com" target="_blank"><IMG src="gfx/banditslogo_transparent.gif" width="535" height="75" border="0"></A></TD>
+    </TR>
+    <TR>
+     <TD align="left" valign="center" width="535" height="4" colspan="3"></TD>
+    </TR>
+    <TR>
+     <TD align="left" valign="top" width="74"><A href="javascript: popup_screens('games/bandits_screenshots/bandits_screenshot01.htm')"><IMG src="games/bandits_screenshots/screen01_thumb70x53.jpg" width="70" height="42" border="0" alt="Click for larger picture"></A><BR>
+     <A href="javascript: popup_screens('games/bandits_screenshots/bandits_screenshot02.htm')"><IMG src="games/bandits_screenshots/screen02_thumb70x53.jpg" width="70" height="42" border="0" alt="Click for larger picture"></A><BR>
+     <A href="javascript: popup_screens('games/bandits_screenshots/bandits_screenshot03.htm')"><IMG src="games/bandits_screenshots/screen03_thumb70x53.jpg" width="70" height="42" border="0" alt="Click for larger picture"></A></TD>
+     <TD valign="top" width="4" rowspan="7">&nbsp;</TD>
+     <TD valign="top" rowspan="7"><DIV align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B><A href="http://www.bandits-game.com" target="_blank">Bandits - Phoenix Rising&#153;</A></B> - Bomb and blast all sorts of enemies and cargo trucks and send them scattered over green fields, desert canyons and deep snow, to defend your gang and glory in this high-octane action/racing combo game!<BR>
+      Take on the role of Fennec and his sidekick Rewdalf, the notorious leaders of the Wolfpack clan in this storyd-driven laughter- and blaster-fest.<BR>
+      <I>PCCD, released in 2002.</I></DIV><BR>
+      <DIV align="right"><A href="http://www.bandits-game.com" target="_blank">BANDITS Official Website</A> - <A href="http://forum.bandits-game.com" target="_blank">BANDITS Official Forum</A></DIV></TD>
+    </TR>
+    <TR>
+   </TABLE><BR>
+      <TABLE width="535" border="0" cellspacing="0" cellpadding="0" bgcolor="#4B5F5F" valign="top">
+    <TR>
+     <TD align="left" valign="top" width="144" colspan="3"><A href="http://www.grin.se/ballistics/default.htm" target="_blank"><IMG src="gfx/ballisticslogo_transparent.gif" width="535" height="50" border="0"></A></TD>
+    </TR>
+    <TR>
+     <TD align="left" valign="center" width="535" height="4" colspan="3"></TD>
+    </TR>
+    <TR>
+     <TD align="left" valign="top" width="74"><A href="javascript: popup_screens('games/ballistics_screenshots/ballistics_screenshot01.htm')"><IMG src="games/ballistics_screenshots/screen01_thumb70x53.jpg" width="70" height="42" border="0" alt="Click for larger picture"></A><BR>
+     <A href="javascript: popup_screens('games/ballistics_screenshots/ballistics_screenshot02.htm')"><IMG src="games/ballistics_screenshots/screen02_thumb70x53.jpg" width="70" height="42" border="0" alt="Click for larger picture"></A><BR>
+     <A href="javascript: popup_screens('games/ballistics_screenshots/ballistics_screenshot03.htm')"><IMG src="games/ballistics_screenshots/screen03_thumb70x53.jpg" width="70" height="42" border="0" alt="Click for larger picture"></A></TD>
+     <TD valign="top" width="4" rowspan="7">&nbsp;</TD>
+     <TD valign="top"><DIV align="justify"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><B><A href="http://www.grin.se/ballistics/default.htm" target="_blank">Ballistics&#153;</A></B> - Ballistics™ is the Formula One of the future. Needless to say Ballistics™ is for the extreme speed enthusiasts.<BR>
+      Maximizing the use of the very latest 3D cards GRIN has created a game that is cruel to your hardware but sweet to your eyes.<BR>
+      The arcade version of Ballistics is available in the USA, Canada, Spain, England, Germany and France.<BR>
+      <I>PCCD & Arcade, released in 2001.</I></DIV><BR>
+      <DIV align="right"><A href="http://www.grin.se/ballistics/default.htm" target="_blank">Ballistics Official Website</A> - <A href="http://pub65.ezboard.com/fxicatinteractivefrm4" target="_blank">Ballistics Official Forum</A> - <A href="http://www.trio-tech.com/prod_ballistics.html" target="_blank">Ballistics Arcade</A></DIV></TD>
+    </TR>
+   </TABLE><BR>
+   <DIV align="right"><FONT face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#C7BDB3"><A href="#sitetop"><B>Back to top</B></A><BR>
+   &nbsp;</FONT></DIV></TD>
+ </TR>
+</TABLE>
+</BODY>
+</HTML>
